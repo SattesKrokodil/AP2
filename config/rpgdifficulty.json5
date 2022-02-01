@@ -36,11 +36,11 @@
 	"negativeHeightIncreasion": true,
 	"affectBosses": true,
 	// Applies only for dimensions other than Overworld
-	"excludeDistanceInOtherDimension": true,
+	"excludeDistanceInOtherDimension": false,
 	// Applies only for dimensions other than Overworld
 	"excludeTimeInOtherDimension": true,
 	// Applies only for dimensions other than Overworld
-	"excludeHeightInOtherDimension": true,
+	"excludeHeightInOtherDimension": false,
 	// Hud for testing purpose only
 	"hudTesting": false,
 	// Exluded Entity List Bsp: minecraft.villager
