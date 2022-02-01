@@ -1,0 +1,85 @@
+{
+	id: "22311E518BEB55AB"
+	group: ""
+	order_index: 0
+	filename: "test"
+	title: "test"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -22.5d
+			y: 6.0d
+			id: "7D4FC89B77ECE8D5"
+			tasks: [
+				{
+					id: "300BD159DED7173B"
+					type: "item"
+				}
+				{
+					id: "79FEA0245C06FF54"
+					type: "advancement"
+					advancement: "minecraft:story/root"
+					criterion: ""
+				}
+			]
+		}
+		{
+			x: -22.5d
+			y: 4.5d
+			dependencies: ["7D4FC89B77ECE8D5"]
+			id: "4236F4B356791C84"
+			tasks: [{
+				id: "5EF9748B8C26A8F3"
+				type: "item"
+			}]
+		}
+		{
+			x: -23.5d
+			y: 2.5d
+			dependencies: ["4236F4B356791C84"]
+			id: "6BEA02C647608D60"
+			tasks: [{
+				id: "2965BA9A198D4976"
+				type: "item"
+			}]
+		}
+		{
+			x: -21.5d
+			y: 2.5d
+			dependencies: ["4236F4B356791C84"]
+			id: "424549B0B4A266A5"
+			tasks: [{
+				id: "0D22629842304289"
+				type: "item"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 5.5d
+			id: "6CC911569D8E9C0C"
+			tasks: [{
+				id: "4CD036873E208AE6"
+				type: "item"
+				item: "minecraft:polished_granite"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 3.5d
+			description: ["{image:#FFFFFF width:100 height:100 align:1}"]
+			id: "70E8D3D0AA78A343"
+			tasks: [{
+				id: "3A089CC833F9671F"
+				type: "checkmark"
+				title: "test"
+			}]
+			rewards: [{
+				id: "4FCDDB77A263B313"
+				type: "loot"
+				auto: "enabled"
+				table_id: 8745884259992897842L
+			}]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"type": "origins:inventory",
+	"drop_on_death": false,
+	"key": {
+		"key": "key.origins.secondary_active",
+		"continuous": false
+	},
+
+	"name": "Effect:",
+
+	"description": "You can open an extra inventory by pressing your secondary power key <B> default. CAUTION your extra inventory gets cleared on mutation change!"
+
+}

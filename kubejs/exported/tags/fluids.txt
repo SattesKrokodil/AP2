@@ -1,0 +1,17 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 3, 2022, 1:46:17 PM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+
+#spectrum:liquid_crystal
+- spectrum:liquid_crystal
+- spectrum:flowing_liquid_crystal
+
+#spectrum:mud
+- spectrum:mud
+- spectrum:flowing_mud

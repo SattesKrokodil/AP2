@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dragon_egg",
+	"mcda:piglin_armor_leggings",
+	"bewitchment:belladonna_seeds"
+    ]
+}

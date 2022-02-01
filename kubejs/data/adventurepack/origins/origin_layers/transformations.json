@@ -1,0 +1,57 @@
+
+
+{
+  "replace": false,
+  "order": 3,
+  "enabled": true,
+  "origins": [
+        
+                
+
+
+                
+                "advpack:transformation/ground/1_ground",
+
+			{
+        "condition": {
+              "type": "origins:advancement",
+             "advancement": "adventurepack:lvl_20",
+            "layer": "origins:origins"
+            },
+
+            "origins": [
+                
+                "advpack:transformation/aquatic/1_aquatic"
+
+            ]
+        },
+			{
+        "condition": {
+              "type": "origins:advancement",
+             "advancement": "adventurepack:lvl_30",
+            "layer": "origins:origins"
+            },
+
+            "origins": [
+                
+                "advpack:transformation/flying/1_flying"
+
+            ]
+        },
+			{
+        "condition": {
+              "type": "origins:advancement",
+             "advancement": "adventurepack:lvl_5",
+            "layer": "origins:origins"
+            },
+
+            "origins": [
+                
+                "advpack:transformation/special/1_special"
+
+            ]
+        }
+    ]
+}
+
+

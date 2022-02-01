@@ -1,0 +1,20 @@
+{
+	id: "795F9F65938E8932"
+	order_index: 0
+	title: "test"
+	loot_size: 2
+	rewards: [
+		{
+			auto: "enabled"
+			command: "/ftbquests change_progress SattesKrokodil reset 3A089CC833F9671F"
+			player_command: false
+			type: "command"
+		}
+		{
+			auto: "enabled"
+			command: "/ftbquests change_progress SattesKrokodil reset 4FCDDB77A263B313"
+			player_command: false
+			type: "command"
+		}
+	]
+}
