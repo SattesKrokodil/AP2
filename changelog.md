@@ -8,12 +8,16 @@ Since this is the start of the project on git, it is very possible that I missed
 - will update origins with custom ones soon, until then enjoy the standard ones
 - some mods got added to test them, others won't have immediate effects but are needed for planned stuff
 - backslot and backslot scale increased because anime
+
+
 ### fixes
 - villagers should be back to normal
 - other dimensions should now have mobs following the level rules
+- fixed backslot and beltslots overlapping with trinket slots
 
 ### mods
 #### added:
+- enchantmentdescriptions 9.0.12
 - merchant markers 1.1.2
 - lychee 1.2.0
 - friendsandfoes 1.2.2
