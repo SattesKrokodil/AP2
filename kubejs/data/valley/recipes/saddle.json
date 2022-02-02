@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "C#C",
+    "I I"
+  ],
+  "key": {
+    "#": {
+      "item": "expert_armor:leather_plate"
+    },
+    "L": {
+      "tag": "minecraft:leathers"
+    },
+    "C": {
+      "item": "valley:climbable_rope"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:saddle",
+    "count": 1
+  }
+}

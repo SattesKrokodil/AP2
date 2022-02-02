@@ -1,0 +1,31 @@
+{
+    "replace": false,
+    "values": [
+	"rotten:hide",
+        "minecraft:rabbit_hide",
+        "adventurez:rhino_leather",
+        "adventurez:orc_skin",
+        "adventurez:ender_whale_skin",
+        "adventurez:mammoth_fur",
+        "adventurez:iguana_hide",
+        "mcda:phantom_skin",
+	"mcda:ocelot_pelt",
+	"mcda:ocelot_pelt_black",
+	"mcda:wolf_pelt",
+	"mcda:wolf_pelt_black",
+	"mcda:fox_pelt",
+	"mcda:fox_pelt_arctic",
+	"mcda:goat_pelt",
+        "betteranimalsplus:bear_skin_brown",
+        "betteranimalsplus:bear_skin_black",
+        "betteranimalsplus:bear_skin_kermode",
+        "betteranimalsplus:wolf_pelt_snowy",
+        "betteranimalsplus:wolf_pelt_timber",
+        "betteranimalsplus:wolf_pelt_black",
+        "betteranimalsplus:wolf_pelt_arctic",
+        "betteranimalsplus:wolf_pelt_brown",
+        "betteranimalsplus:wolf_pelt_red",
+	"valley:fur_clump"
+
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "S",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "valley:fiber"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "valley:climbable_rope",
+    "count": 1
+  }
+}

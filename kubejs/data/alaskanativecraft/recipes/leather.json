@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "rotten:prepared_hide"
+  },
+  "result": "minecraft:leather",
+  "cookingtime": 4800,
+  "type": "alaskanativecraft:drying"
+}

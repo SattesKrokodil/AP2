@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "terrarianslimes:green_gel",
+        "terrarianslimes:blue_gel",
+        "terrarianslimes:red_gel",
+        "terrarianslimes:purple_gel",
+        "terrarianslimes:yellow_gel",
+        "terrarianslimes:black_gel",
+        "terrarianslimes:ice_gel",
+        "terrarianslimes:sand_gel",
+        "terrarianslimes:jungle_gel",
+        "terrarianslimes:pinky_gel",
+        "terrarianslimes:corrupt_gel",
+        "terrarianslimes:crimson_gel",
+        "terrarianslimes:illuminant_gel",
+        "terrarianslimes:rainbow_gel"
+
+    ]
+}

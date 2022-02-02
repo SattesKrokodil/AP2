@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"cfc",
+		"cxc",
+		" c "
+	],
+	"key": {
+		"c": {
+			"item": "betteranimalsplus:bear_skin_black"
+		},
+		"x": {
+			"item": "expert_armor:leather_plate"
+		},
+		"f": {
+			"item": "mcda:fabric_bolt_black"
+		}
+	},
+	"result": {
+		"item": "betteranimalsplus:bear_cape_black",
+		"count": 1
+	}
+}

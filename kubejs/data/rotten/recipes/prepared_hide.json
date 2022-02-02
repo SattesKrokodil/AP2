@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:leathers"
+        },
+        {
+            "tag": "minecraft:salts"
+        },
+        {
+            "tag": "minecraft:salts"
+        },
+        {
+            "tag": "minecraft:salts"
+        }
+    ],
+    "result": {
+        "item": "rotten:prepared_hide",
+        "count": 1
+    }
+}

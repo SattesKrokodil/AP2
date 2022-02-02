@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XOX",
+    "OWO",
+    "XOX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "O": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "valley:climbable_rope"
+    }
+  },
+  "result": {
+"item": "expert_armor:leather_plate"
+  }
+}

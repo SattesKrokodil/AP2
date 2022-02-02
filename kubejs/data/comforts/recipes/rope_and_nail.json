@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_and_nail",
+  "pattern": [
+
+    "axa"
+  ],
+  "key": {
+    "a": {
+      "item": "valley:climbable_rope"
+    },
+    "x": {
+      "tag": "c:iron_ingots"
+    }
+  },
+  "result": {
+    "item": "comforts:rope_and_nail",
+    "count": 2
+  }
+}

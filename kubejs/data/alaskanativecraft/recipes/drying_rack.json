@@ -1,0 +1,18 @@
+{
+  "pattern": [
+    "#/#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "alaskanativecraft:driftwood_chunk"
+    },
+    "/": {
+      "item": "rotten:wood_rack"
+    }
+  },
+  "result": {
+    "item": "alaskanativecraft:drying_rack"
+  },
+  "type": "minecraft:crafting_shaped"
+}
