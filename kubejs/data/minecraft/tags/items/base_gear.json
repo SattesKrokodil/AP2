@@ -1,0 +1,205 @@
+{
+	"replace": false,
+	"values": [
+		"mcda:spelunker_armor_leggings",
+		"mcda:spelunker_armor_boots",
+		"mcda:spelunker_armor_chestplate",
+		"mcda:spelunker_armor_helmet",
+
+		"mcda:wolf_armor_leggings",
+		"mcda:wolf_armor_boots",
+		"mcda:wolf_armor_chestplate",
+		"mcda:wolf_armor_helmet",
+
+		"mcda:climbing_gear_leggings",
+		"mcda:climbing_gear_boots",
+		"mcda:climbing_gear_chestplate",
+		"mcda:climbing_gear_helmet",
+
+		"mcda:squid_armor_leggings",
+		"mcda:squid_armor_boots",
+		"mcda:squid_armor_chestplate",
+		"mcda:squid_armor_helmet",
+
+		"mcda:goat_gear_leggings",
+		"mcda:goat_gear_boots",
+		"mcda:goat_gear_chestplate",
+		"mcda:goat_gear_helmet",
+
+		"mcda:battle_robe_leggings",
+		"mcda:battle_robe_chestplate",
+
+		"mcda:evocation_robe_leggings",
+		"mcda:evocation_robe_chestplate",
+		"mcda:evocation_robe_helmet",
+
+		"mcda:thief_armor_leggings",
+		"mcda:thief_armor_boots",
+		"mcda:thief_armor_chestplate",
+		"mcda:thief_armor_helmet",
+
+		"mcda:soul_robe_leggings",
+		"mcda:soul_robe_boots",
+		"mcda:soul_robe_chestplate",
+		"mcda:soul_robe_helmet",
+
+		"mcda:sprout_armor_leggings",
+		"mcda:sprout_armor_boots",
+		"mcda:sprout_armor_chestplate",
+		"mcda:sprout_armor_helmet",
+
+
+		"mcda:living_vines_armor_leggings",
+		"mcda:living_vines_armor_boots",
+		"mcda:living_vines_armor_chestplate",
+		"mcda:living_vines_armor_helmet",
+
+		"mcda:piglin_armor_leggings",
+		"mcda:piglin_armor_boots",
+		"mcda:piglin_armor_chestplate",
+		"mcda:piglin_armor_helmet",
+
+		"mcda:teleportation_robe_leggings",
+		"mcda:teleportation_robe_boots",
+		"mcda:teleportation_robe_chestplate",
+		"mcda:teleportation_robe_helmet",
+
+		"mcda:phantom_armor_leggings",
+		"mcda:phantom_armor_boots",
+		"mcda:phantom_armor_chestplate",
+		"mcda:phantom_armor_helmet",
+
+		"mcda:grim_armor_leggings",
+		"mcda:grim_armor_boots",
+		"mcda:grim_armor_chestplate",
+		"mcda:grim_armor_helmet",
+
+		"mcda:turtle_armor_leggings",
+		"mcda:turtle_armor_boots",
+		"mcda:turtle_armor_chestplate",
+		"mcda:turtle_armor_helmet",
+
+		"mcda:scale_mail_leggings",
+		"mcda:scale_mail_boots",
+		"mcda:scale_mail_chestplate",
+
+		"mcda:ghostly_armor_leggings",
+		"mcda:ghostly_armor_boots",
+		"mcda:ghostly_armor_chestplate",
+		"mcda:ghostly_armor_helmet",
+
+		"mcda:reinforced_mail_leggings",
+		"mcda:reinforced_mail_boots",
+		"mcda:reinforced_mail_chestplate",
+		"mcda:reinforced_mail_helmet",
+
+		"mcda:guards_armor_leggings",
+		"mcda:guards_armor_boots",
+		"mcda:guards_armor_chestplate",
+		"mcda:guards_armor_helmet",
+
+		"mcda:snow_armor_leggings",
+		"mcda:snow_armor_boots",
+		"mcda:snow_armor_chestplate",
+		"mcda:snow_armor_helmet",
+
+		"mcda:mercenary_armor_leggings",
+		"mcda:mercenary_armor_boots",
+		"mcda:mercenary_armor_chestplate",
+		"mcda:mercenary_armor_helmet",
+
+		"mcda:emerald_gear_leggings",
+		"mcda:emerald_gear_boots",
+		"mcda:emerald_gear_chestplate",
+		"mcda:emerald_gear_helmet",
+
+		"mcda:plate_armor_leggings",
+		"mcda:plate_armor_boots",
+		"mcda:plate_armor_chestplate",
+		"mcda:plate_armor_helmet",
+
+		"mcdw:sickle_sickle",
+		"mcdw:dagger_dagger",
+		"mcdw:sword_iron_sword_var",
+		"mcdw:sword_cutlass",
+		"mcdw:sword_nameless_blade",
+		"mcdw:sword_katana",
+		"mcdw:sword_broken_sawblade",
+		"mcdw:axe",
+		"mcdw:axe_anchor",
+		"mcdw:dagger_tempest_knife",
+		"mcdw:dagger_moon",
+		"mcdw:hammer_great",
+		"mcdw:hammer_mace",
+		"mcdw:hammer_boneclub",
+		"mcdw:gauntlet_gauntlet",
+		"mcdw:pick_mountaineer_pick",
+		"mcdw:spear_glaive",
+		"mcdw:staff_battlestaff",
+		"mcdw:whip_whip",
+
+		"mcdw:bow_bonebow",
+		"mcdw:bow_hunting_bow",
+		"mcdw:bow_power_bow",
+		"mcdw:bow_snow_bow",
+		"mcdw:bow_soul_bow",
+		"mcdw:bow_trickbow",
+		"mcdw:bow_twin_bow",
+		"mcdw:bow_wind_bow",
+		"mcdw:bow_shortbow",
+
+		"mcdw:bow_longbow",
+		"mcdw:crossbow_the_slicer",
+		"mcdw:crossbow_azure_seeker",
+		"mcdw:crossbow_heavy_crossbow",
+		"mcdw:crossbow_rapid_crossbow",
+		"mcdw:crossbow_auto_crossbow",
+		"mcdw:crossbow_scatter_crossbow",
+		"mcdw:crossbow_dual_crossbow",
+		"mcdw:crossbow_baby_crossbow",
+		"mcdw:shield_royal_guard",
+		"mcdw:shield_vanguard"
+	
+
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

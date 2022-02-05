@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+	"minecraft:arrow",
+	"minecraft:bone",
+	"minecraft:rotten_flesh",
+	"valley:worm",
+	"valley:fur_clump",
+	"numismatic-overhaul:bronze_coin"
+    ]
+}

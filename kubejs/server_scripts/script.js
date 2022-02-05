@@ -1,20 +1,62 @@
-// priority: 0
 
-settings.logAddedRecipes = true
-settings.logRemovedRecipes = true
-settings.logSkippedRecipes = false
-settings.logErroringRecipes = true
-
-console.info('Hello, World! (You will see this line every time server resources reload)')
 
 onEvent('recipes', event => {
-	// Change recipes here
+
+  event.remove({mod: 'mcda'})
+  event.remove({mod: 'mcdw'})
+
+  event.remove({output: 'valley:fur_chestplate'}) 
+  event.remove({id: 'blockus:rainbow_block'})
+
+  event.remove({id: 'blockus:asphalt'})
+  event.remove({id: 'blockus:white_asphalt'})
+  event.remove({id: 'blockus:orange_asphalt'})
+  event.remove({id: 'blockus:magenta_asphalt'})
+  event.remove({id: 'blockus:light_blue_asphalt'})
+  event.remove({id: 'blockus:yellow_asphalt'})
+  event.remove({id: 'blockus:lime_asphalt'})
+  event.remove({id: 'blockus:pink_asphalt'})
+  event.remove({id: 'blockus:light_gray_asphalt'})
+  event.remove({id: 'blockus:gray_asphalt'})
+  event.remove({id: 'blockus:cyan_asphalt'})
+  event.remove({id: 'blockus:purple_asphalt'})
+  event.remove({id: 'blockus:blue_asphalt'})
+  event.remove({id: 'blockus:brown_asphalt'})
+  event.remove({id: 'blockus:green_asphalt'})
+  event.remove({id: 'blockus:red_asphalt'})
+
+  event.remove({id: 'blockus:asphalt_stairs'})
+  event.remove({id: 'blockus:white_asphalt_stairs'})
+  event.remove({id: 'blockus:orange_asphalt_stairs'})
+  event.remove({id: 'blockus:magenta_asphalt_stairs'})
+  event.remove({id: 'blockus:light_blue_asphalt_stairs'})
+  event.remove({id: 'blockus:yellow_asphalt_stairs'})
+  event.remove({id: 'blockus:lime_asphalt_stairs'})
+  event.remove({id: 'blockus:pink_asphalt_stairs'})
+  event.remove({id: 'blockus:light_gray_asphalt_stairs'})
+  event.remove({id: 'blockus:gray_asphalt_stairs'})
+  event.remove({id: 'blockus:cyan_asphalt_stairs'})
+  event.remove({id: 'blockus:purple_asphalt_stairs'})
+  event.remove({id: 'blockus:blue_asphalt_stairs'})
+  event.remove({id: 'blockus:brown_asphalt_stairs'})
+  event.remove({id: 'blockus:green_asphalt_stairs'})
+  event.remove({id: 'blockus:red_asphalt_stairs'})
+
+  event.remove({id: 'blockus:asphalt_slab'})
+  event.remove({id: 'blockus:white_asphalt_slab'})
+  event.remove({id: 'blockus:orange_asphalt_slab'})
+  event.remove({id: 'blockus:magenta_asphalt_slab'})
+  event.remove({id: 'blockus:light_blue_asphalt_slab'})
+  event.remove({id: 'blockus:yellow_asphalt_slab'})
+  event.remove({id: 'blockus:lime_asphalt_slab'})
+  event.remove({id: 'blockus:pink_asphalt_slab'})
+  event.remove({id: 'blockus:light_gray_asphalt_slab'})
+  event.remove({id: 'blockus:gray_asphalt_slab'})
+  event.remove({id: 'blockus:cyan_asphalt_slab'})
+  event.remove({id: 'blockus:purple_asphalt_slab'})
+  event.remove({id: 'blockus:blue_asphalt_slab'})
+  event.remove({id: 'blockus:brown_asphalt_slab'})
+  event.remove({id: 'blockus:green_asphalt_slab'})
+  event.remove({id: 'blockus:red_asphalt_slab'})
 })
 
-onEvent('item.tags', event => {
-	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
-	// event.get('forge:cobblestone').add('minecraft:diamond_ore')
-
-	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
-	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
-})
