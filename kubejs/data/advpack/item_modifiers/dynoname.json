@@ -1,0 +1,29 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{CustomModelData:1234568}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "South - West Connector. (SW)",
+        "color": "green",
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": {
+      "text": "Sewers 1",
+      "color": "green",
+      "bold": false,
+      "italic": false
+    }
+  }
+]

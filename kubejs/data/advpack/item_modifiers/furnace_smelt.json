@@ -1,0 +1,45 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      [
+        [
+          {
+            "text": "○ Socket:",
+            "color": "aquamarine",
+            "bold": false,
+            "italic": false
+          },
+          {
+            "text": " Coal",
+            "color": "white",
+            "bold": false,
+            "italic": false
+          }
+        ]
+      ]
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{bonus_str:1b}"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "attribute": "playerex:strength",
+        "name": "str_bonus",
+        "amount": {
+          "type": "minecraft:binomial",
+          "n": 10,
+          "p": 0.7
+        },
+        "operation": "addition",
+        "slot": "head"
+      }
+    ]
+  }
+]

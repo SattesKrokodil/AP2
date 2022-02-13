@@ -1,0 +1,21 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": [
+      [
+        {
+          "text": "Brutal",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "selector": "@s",
+          "separator": " ",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    ]
+  }
+]

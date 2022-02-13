@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/ancientcap"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/sw_connector"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/cross_connector"},
+		{"predicate": {"custom_model_data":1000003}, "model": "item/ew_connector"},
+		{"predicate": {"custom_model_data":1000004}, "model": "item/ne_connector"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/ns_connector"},
+		{"predicate": {"custom_model_data":1000006}, "model": "item/nw_connector"},
+		{"predicate": {"custom_model_data":1000007}, "model": "item/room"},
+		{"predicate": {"custom_model_data":1000008}, "model": "item/se_connector"}
+	]
+}

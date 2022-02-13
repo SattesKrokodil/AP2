@@ -1,0 +1,15 @@
+{
+	"powers": [
+	        "advpack:checks/reset",
+			"advpack:checks/is_water",
+    		"advpack:mana/mana",
+    		"advpack:mana/control_resource",
+    		"advpack:mana/strength",
+    		"advpack:actives/spiritdash"
+	],
+	"icon": "minecraft:campfire",
+	"order": 1,
+	"impact": 0,
+	"name": "Water",
+	"description": "info" 
+}
