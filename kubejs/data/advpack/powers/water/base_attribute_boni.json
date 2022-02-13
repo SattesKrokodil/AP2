@@ -1,0 +1,24 @@
+{
+	"type": "origins:multiple",
+	"add_intelligence": {
+		"type": "origins:attribute",
+		"modifier": {
+			"name": "Max test increase",
+			"attribute": "playerex:intelligence",
+			"value": 5,
+			"operation": "addition"
+		}
+	},
+	"add_strength": {
+		"type": "origins:attribute",
+		"modifier": {
+			"name": "Max health increase",
+			"attribute": "playerex:strength",
+			"value": 5,
+			"operation": "addition"
+		}
+	},
+
+	"name": "Stat Bonus:",
+	"description": "Has increased intelligence and strength"
+}

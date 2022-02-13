@@ -5,6 +5,7 @@
     		"advpack:mana/mana",
     		"advpack:mana/control_resource",
     		"advpack:mana/strength",
+    		"advpack:water/base_attribute_boni",
     		"advpack:actives/spiritdash"
 	],
 	"icon": "minecraft:campfire",
