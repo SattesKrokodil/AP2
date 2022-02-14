@@ -1,0 +1,14 @@
+{
+	"powers": [
+	        "advpack:checks/reset",
+	    	"advpack:checks/is_fire",
+    		"advpack:rage/rage",
+    		"advpack:rage/rage_control_resource",
+    		"advpack:rage/rage_strength"
+	],
+	"icon": "minecraft:campfire",
+	"order": 1,
+	"impact": 0,
+	"name": "Fire",
+	"description": "info" 
+}

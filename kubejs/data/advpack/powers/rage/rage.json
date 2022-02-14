@@ -5,10 +5,10 @@
   "start:": 0,
   "hud_render": {
     "sprite_location": "origins:textures/gui/community/huang/resource_bar_02.png",
-    "bar_index": 16,
+    "bar_index": 15,
     "condition": {
       "type": "origins:resource",
-      "resource": "advpack:checks/is_water",
+      "resource": "advpack:checks/is_fire",
       "comparison": "==",
       "compare_to": 1
     }
