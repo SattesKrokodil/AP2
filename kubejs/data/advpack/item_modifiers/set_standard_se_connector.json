@@ -1,0 +1,29 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{CustomModelData:1000005}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Standard South - East Connector (SE)",
+        "color": "green",
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": {
+      "text": "Dungeon Tile",
+      "color": "green",
+      "bold": false,
+      "italic": false
+    }
+  }
+]
