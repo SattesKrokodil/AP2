@@ -1,0 +1,211 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "terrarianslimes:red_slime_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:bone_rib_cage"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:white_petal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:gray_petal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:light_gray_petal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rotten:rotten_leather"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 10
+              },
+              "add": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "coolstuff:chipped_ruby",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "elementalcreepers:earth_gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "elementalcreepers:dark_gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:fabric_bolt_gray"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:fabric_bolt_light_gray"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:fabric_bolt_white"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "valley:mandrake",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.2
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "terrarianslimes:red_gel"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:rice"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:rice_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:turnip_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:turnip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "betteranimalsplus:turkey_leg_raw"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:greenonion_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:greenonion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:garlic_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "valley:skeleton_cookie_dough"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:garlic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gofish:bonefish"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "valley:flour_bag",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 10
+              },
+              "add": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:salt",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 10
+              },
+              "add": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "botania:cosmetic_wicked_eyepatch"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "botania:cosmetic_alien_antenna"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:cosmetic_devil_tail"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:cosmetic_unicorn_horn"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ]
+    }
+  ]
+}

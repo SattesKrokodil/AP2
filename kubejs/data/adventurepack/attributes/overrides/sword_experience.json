@@ -1,0 +1,7 @@
+{
+    "fallbacktValue": 0.0,
+    "minValue": 0.0,
+    "maxValue": 100.0,
+    "translationKey": "advpack.attribute.name.sword_experience",
+    "stackingBehaviour": "FLAT"
+}
