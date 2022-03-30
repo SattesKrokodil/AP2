@@ -1,0 +1,20 @@
+{
+	id: "7B05B44DE346091E"
+	order_index: 11
+	title: "money_sell_low"
+	icon: {
+		id: "numismatic-overhaul:bronze_coin"
+		Count: 1b
+		tag: { }
+	}
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{
+		item: {
+			id: "numismatic-overhaul:bronze_coin"
+			Count: 1b
+			tag: { }
+		}
+		count: 20
+	}]
+}

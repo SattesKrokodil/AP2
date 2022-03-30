@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "coolershields:golden_banner_shield"
+  },
+  "addition": {
+    "item": "coolstuff:plate_diamond"
+  },
+
+  "result": {
+    "item": "coolershields:diamond_banner_shield"
+  }
+}

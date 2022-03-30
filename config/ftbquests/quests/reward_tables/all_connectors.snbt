@@ -1,0 +1,15 @@
+{
+	id: "554AEFA95909B31C"
+	order_index: 1
+	title: "all_connectors"
+	icon: "kubejs:sw_connector"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{
+		title: "all connectors"
+		auto: "enabled"
+		command: "/loot give @p loot minecraft:chests/rooms/general/all_connectors"
+		player_command: false
+		type: "command"
+	}]
+}

@@ -1,0 +1,9 @@
+{
+	id: "0E9B14F4829C379B"
+	order_index: 6
+	title: "copper_nugget"
+	icon: "valley:copper_nugget"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "valley:copper_nugget" }]
+}

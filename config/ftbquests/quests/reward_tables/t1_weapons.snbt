@@ -1,0 +1,107 @@
+{
+	id: "6B7D4955698EAD83"
+	order_index: 12
+	title: "t1 weapons"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "coolstuff:sword_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:axe_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:dagger_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:gauntlet_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:hammer_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:mace_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:scepter_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:scythe_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:spear_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "coolstuff:staff_i"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "gateofbabylon:iron_bow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

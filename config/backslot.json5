@@ -1,7 +1,7 @@
 {
 	"backslot_sounds": true,
 	// Use for mod compatibility
-	"change_slot_arrangement": false,
+	"change_slot_arrangement": true,
 	"disable_backslot_hud": false,
 	"switch_beltslot_side": false,
 	"offhand_switch": false,

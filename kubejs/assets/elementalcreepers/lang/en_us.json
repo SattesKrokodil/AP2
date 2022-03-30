@@ -1,0 +1,101 @@
+{
+  "entity.elementalcreepers.water_creeper": "Water Creeper",
+  "item.elementalcreepers.water_creeper_spawn_egg": "Water Creeper Spawn Egg",
+
+  "entity.elementalcreepers.fire_creeper": "Fire Creeper",
+  "item.elementalcreepers.fire_creeper_spawn_egg": "Fire Creeper Spawn Egg",
+
+  "entity.elementalcreepers.earth_creeper": "Earth Creeper",
+  "item.elementalcreepers.earth_creeper_spawn_egg": "Earth Creeper Spawn Egg",
+
+  "entity.elementalcreepers.air_creeper": "Air Creeper",
+  "item.elementalcreepers.air_creeper_spawn_egg": "Air Creeper Spawn Egg",
+
+  "entity.elementalcreepers.electric_creeper": "Electric Creeper",
+  "item.elementalcreepers.electric_creeper_spawn_egg": "Electric Creeper Spawn Egg",
+
+  "entity.elementalcreepers.light_creeper": "Light Creeper",
+  "item.elementalcreepers.light_creeper_spawn_egg": "Light Creeper Spawn Egg",
+
+  "entity.elementalcreepers.dark_creeper": "Dark Creeper",
+  "item.elementalcreepers.dark_creeper_spawn_egg": "Dark Creeper Spawn Egg",
+
+  "entity.elementalcreepers.ice_creeper": "Ice Creeper",
+  "item.elementalcreepers.ice_creeper_spawn_egg": "Ice Creeper Spawn Egg",
+
+  "entity.elementalcreepers.magma_creeper": "Magma Creeper",
+  "item.elementalcreepers.magma_creeper_spawn_egg": "Magma Creeper Spawn Egg",
+
+  "entity.elementalcreepers.hydrogen_creeper": "Hydrogen Creeper",
+  "item.elementalcreepers.hydrogen_creeper_spawn_egg": "Hydrogen Creeper Spawn Egg",
+
+  "entity.elementalcreepers.reverse_creeper": "Reverse Creeper",
+  "item.elementalcreepers.reverse_creeper_spawn_egg": "Reverse Creeper Spawn Egg",
+
+  "entity.elementalcreepers.miner_creeper": "Miner Creeper",
+  "item.elementalcreepers.miner_creeper_spawn_egg": "Miner Creeper Spawn Egg",
+
+  "entity.elementalcreepers.illusion_creeper": "Illusion Creeper",
+  "item.elementalcreepers.illusion_creeper_spawn_egg": "Illusion Creeper Spawn Egg",
+
+  "entity.elementalcreepers.fake_illusion_creeper": "Illusion Creeper",
+
+  "entity.elementalcreepers.firework_creeper": "Firework Creeper",
+  "item.elementalcreepers.firework_creeper_spawn_egg": "Firework Creeper Spawn Egg",
+
+  "entity.elementalcreepers.cookie_creeper": "Cookie Creeper",
+  "item.elementalcreepers.cookie_creeper_spawn_egg": "Cookie Creeper Spawn Egg",
+
+  "entity.elementalcreepers.rainbow_creeper": "Rainbow Creeper",
+  "item.elementalcreepers.rainbow_creeper_spawn_egg": "Rainbow Creeper Spawn Egg",
+
+  "block.elementalcreepers.water_tnt": "Water TNT",
+  "item.elementalcreepers.water_gunpowder": "Water Powder",
+
+  "block.elementalcreepers.fire_tnt": "Fire TNT",
+  "item.elementalcreepers.fire_gunpowder": "Fire Powder",
+
+  "block.elementalcreepers.earth_tnt": "Earth TNT",
+  "item.elementalcreepers.earth_gunpowder": "Earth Powder",
+
+  "block.elementalcreepers.air_tnt": "Air TNT",
+  "item.elementalcreepers.air_gunpowder": "Air Powder",
+
+  "block.elementalcreepers.electric_tnt": "Electric TNT",
+  "item.elementalcreepers.electric_gunpowder": "Electric Powder",
+
+  "block.elementalcreepers.light_tnt": "Light TNT",
+  "item.elementalcreepers.light_gunpowder": "Light Powder",
+
+  "block.elementalcreepers.dark_tnt": "Dark TNT",
+  "item.elementalcreepers.dark_gunpowder": "Dark Powder",
+
+  "block.elementalcreepers.ice_tnt": "Ice TNT",
+  "item.elementalcreepers.ice_gunpowder": "Ice Powder",
+
+  "block.elementalcreepers.magma_tnt": "Magma TNT",
+  "item.elementalcreepers.magma_gunpowder": "Magma Powder",
+
+  "block.elementalcreepers.hydrogen_tnt": "Hydrogen TNT",
+  "item.elementalcreepers.hydrogen_gunpowder": "Poison Powder",
+
+  "block.elementalcreepers.reverse_tnt": "Reverse TNT",
+  "item.elementalcreepers.reverse_gunpowder": "Anti Powder",
+
+  "block.elementalcreepers.miner_tnt": "Miner TNT",
+  "item.elementalcreepers.miner_gunpowder": "Stone Powder",
+
+  "block.elementalcreepers.illusion_tnt": "Illusion TNT",
+  "item.elementalcreepers.illusion_gunpowder": "Illusion Powder",
+
+  "block.elementalcreepers.firework_tnt": "Firework TNT",
+  "item.elementalcreepers.firework_gunpowder": "Firework Powder",
+
+  "block.elementalcreepers.cookie_tnt": "Cookie TNT",
+  "item.elementalcreepers.cookie_gunpowder": "Cookie Powder",
+
+  "item.elementalcreepers.gunpowder.tooltip.1": " - Crafting Material -",
+  "item.elementalcreepers.gunpowder.tooltip.2": "",
+
+  "itemGroup.elementalcreepers.category": "Elemental Creepers: Refabricated"
+}

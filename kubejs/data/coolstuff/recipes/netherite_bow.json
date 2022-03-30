@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "gateofbabylon:diamond_bow"
+  },
+  "addition": {
+    "item": "coolstuff:plate_netherite"
+  },
+
+  "result": {
+    "item": "gateofbabylon:netherite_bow"
+  }
+}

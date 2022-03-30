@@ -1,0 +1,44 @@
+{
+	id: "5929E914997E080F"
+	group: ""
+	order_index: 4
+	filename: "building_block_store"
+	title: "Building Block Store"
+	icon: "minecraft:oak_planks"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: -5.5d
+		y: -1.5d
+		width: 1.0d
+		height: 1.0d
+		rotation: 0.0d
+		image: "minecraft:textures/gui/presets/isles.png"
+		hover: ["TIER I"]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			x: -3.5d
+			y: -1.5d
+			id: "4487956A3EE95353"
+			tasks: [{
+				id: "34BFDAB5148F2BA6"
+				type: "item"
+				item: "minecraft:cobblestone"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.5d
+			id: "0FFB33D1D5F5166B"
+			tasks: [{
+				id: "47DFF4F191F16CA1"
+				type: "item"
+				item: "minecraft:dirt"
+			}]
+		}
+	]
+}

@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "order": 0,
-  "origins": [
-				"advpack:control",
-				"advpack:water",
-				"advpack:fire"
-  ]
-}

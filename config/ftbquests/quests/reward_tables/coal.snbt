@@ -1,0 +1,9 @@
+{
+	id: "7D6E603125460BDC"
+	order_index: 9
+	title: "coal"
+	icon: "minecraft:coal"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "minecraft:coal", count: 5 }]
+}

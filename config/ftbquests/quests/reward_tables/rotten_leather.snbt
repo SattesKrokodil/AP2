@@ -1,0 +1,9 @@
+{
+	id: "18F48C5BCD8DD312"
+	order_index: 5
+	title: "rotten_leather"
+	icon: "rotten:rotten_leather"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "rotten:rotten_leather" }]
+}

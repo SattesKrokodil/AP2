@@ -1,0 +1,9 @@
+{
+	id: "7562714F54C6E468"
+	order_index: 7
+	title: "stick"
+	icon: "minecraft:stick"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "minecraft:stick" }]
+}

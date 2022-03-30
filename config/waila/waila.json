@@ -14,14 +14,14 @@
     "position": {
       "align": {
         "x": "CENTER",
-        "y": "TOP"
+        "y": "MIDDLE"
       },
       "anchor": {
-        "x": "CENTER",
+        "x": "RIGHT",
         "y": "TOP"
       },
-      "x": 260,
-      "y": 10,
+      "x": -50,
+      "y": 20,
       "bossBarsOverlap": false
     },
     "color": {
@@ -42,7 +42,7 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
     "scale": 1.0
   },

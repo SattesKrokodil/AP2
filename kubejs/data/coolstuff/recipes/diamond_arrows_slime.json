@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "y  ",
+    "o  ",
+    "x  "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "valley:arrow_bundle"
+    },
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "y":
+    {
+      "tag": "c:slime_balls"
+    }
+  },
+  "result":
+  {
+    "item": "xtraarrows:diamond_slime_arrow",
+    "count": 16
+  }
+}

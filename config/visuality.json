@@ -21,7 +21,7 @@
     ]
   },
   "shiny_armor": {
-    "enabled": true,
+    "enabled": false,
     "entries": [
       "minecraft:golden_helmet",
       "minecraft:golden_chestplate",
@@ -34,7 +34,7 @@
     ]
   },
   "shiny_blocks": {
-    "enabled": true,
+    "enabled": false,
     "entries": [
       "minecraft:gold_ore",
       "minecraft:deepslate_gold_ore",

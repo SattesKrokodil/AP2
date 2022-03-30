@@ -1,0 +1,9 @@
+{
+	id: "4D4B762C7DE9D3A9"
+	order_index: 8
+	title: "lantern"
+	icon: "minecraft:lantern"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "minecraft:lantern" }]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " o ",
+    "oxo",
+    " o "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "terrarianslimes:sand_gel"
+    },
+    "x":
+    {
+      "item": "elementalcreepers:light_gunpowder"
+    }
+  },
+  "result":
+  {
+    "item": "terrarianslimes:sand_slime_ball",
+    "count": 1
+  }
+}

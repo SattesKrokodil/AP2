@@ -1,0 +1,35 @@
+{
+	"pools": [{
+		"rolls": 1,
+		"entries": [{
+			"type": "dynocaps:rustycap",
+			"prefabname": "dynocaps:001_055_007_0_1.dynobin",
+			"functions": [{
+					"function": "minecraft:set_nbt",
+					"tag": "{CustomModelData:1000007}"
+				},
+				{
+					"function": "minecraft:set_lore",
+					"entity": "this",
+					"lore": [{
+						"text": "North - East Connector(NE)",
+						"color": "green",
+						"bold": false,
+						"italic": false
+					}],
+					"replace": true
+				},
+				{
+					"function": "minecraft:set_name",
+					"entity": "this",
+					"name": {
+						"text": "Dungeon Tile",
+						"color": "green",
+						"bold": false,
+						"italic": false
+					}
+				}
+			]
+		}]
+	}]
+}

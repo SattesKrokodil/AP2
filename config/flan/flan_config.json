@@ -1,20 +1,30 @@
 {
   "__comment": "For help with the config refer to https://github.com/Flemmli97/Flan/wiki/Config",
   "configVersion": 4,
-  "startingBlocks": 500,
+  "lang": "en_us",
+  "startingBlocks": 0,
   "maxClaimBlocks": 5000,
   "ticksForNextBlock": 600,
   "minClaimsize": 100,
   "defaultClaimDepth": 10,
-  "maxClaims": -1,
+  "maxClaims": 0,
+  "defaultClaimName": "",
+  "defaultEnterMessage": "",
+  "defaultLeaveMessage": "",
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
   "inspectionItem": "minecraft:stick",
   "claimDisplayTime": 1000,
   "permissionLevel": 2,
-  "sellPrice": -1,
-  "buyPrice": -1,
+  "buySellHandler": {
+    "buyType": "MONEY",
+    "sellType": "MONEY",
+    "buyValue": -1.0,
+    "sellValue": -1.0,
+    "ingredient": []
+  },
+  "maxBuyBlocks": 0,
   "lenientBlockEntityCheck": false,
   "breakBlockBlacklist": [
     "universal_graves:grave"
@@ -84,6 +94,7 @@
       "LECTERNTAKE": true,
       "FLIGHT": true,
       "TELEPORT": true,
+      "FAKEPLAYER": true,
       "FROSTWALKER": true,
       "INTERACTBLOCK": true,
       "EDITCLAIM": true,
@@ -125,7 +136,7 @@
   "globalDefaultPerms": {
     "*": {
       "NOHUNGER": "ALLFALSE",
-      "LOCKITEMS": "ALLTRUE",
+      "LOCKITEMS": "ALLFALSE",
       "FLIGHT": "ALLTRUE",
       "MOBSPAWN": "ALLFALSE",
       "EDITPOTIONS": "ALLFALSE",

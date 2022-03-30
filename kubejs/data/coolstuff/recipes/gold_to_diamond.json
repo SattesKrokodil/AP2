@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "inmis:gilded_backpack"
+  },
+  "addition": {
+    "item": "coolstuff:plate_diamond"
+  },
+
+  "result": {
+    "item": "inmis:bejeweled_backpack"
+  }
+}

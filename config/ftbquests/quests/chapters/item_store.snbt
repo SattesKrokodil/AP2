@@ -1,0 +1,352 @@
+{
+	id: "439B581DDA49E731"
+	group: ""
+	order_index: 2
+	filename: "item_store"
+	title: "Item Store"
+	icon: {
+		id: "numismatic-overhaul:money_bag"
+		Count: 1b
+		tag: {
+			Value: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -2.0d
+			y: -3.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/gui/presets/isles.png"
+			hover: ["BUY"]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 5.5d
+			y: -3.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/gui/presets/isles.png"
+			hover: ["SELL"]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -6.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/gui/presets/isles.png"
+			hover: ["TIER I"]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -6.5d
+			y: 0.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/gui/presets/isles.png"
+			hover: ["TIER II"]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			title: "Rotten Leather"
+			icon: "rotten:rotten_leather"
+			x: -4.5d
+			y: -1.5d
+			id: "50900E7D5F90D21E"
+			tasks: [{
+				id: "29F68CDA7E9EB38D"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "167B3CFB17998B16"
+				type: "questsadditions:repeat"
+				title: "Rotten Leather"
+				auto: "enabled"
+				table_id: 1798216477146206994L
+			}]
+		}
+		{
+			title: "Copper Nugget"
+			icon: "valley:copper_nugget"
+			x: -3.5d
+			y: -1.5d
+			id: "670ED0106089D3EE"
+			tasks: [{
+				id: "05AC6A09C7914C0E"
+				type: "item"
+				icon: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3AAC436C36347893"
+				type: "questsadditions:repeat"
+				title: "Copper Nugget"
+				auto: "enabled"
+				table_id: 1052457978316994459L
+			}]
+		}
+		{
+			title: "Stick"
+			icon: "minecraft:stick"
+			x: -2.5d
+			y: -1.5d
+			id: "2A26CC177EAA1746"
+			tasks: [{
+				id: "6794D40C8FDD202C"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "26CCD2E131D32F78"
+				type: "questsadditions:repeat"
+				title: "Stick"
+				auto: "enabled"
+				table_id: 8458447635693888616L
+			}]
+		}
+		{
+			title: "1x Skeleton Skull -> 20x Bronze Coins"
+			x: 6.5d
+			y: -1.5d
+			id: "2B4ED9435A12AD19"
+			tasks: [{
+				id: "33D2F9AFB50B5982"
+				type: "item"
+				item: "minecraft:skeleton_skull"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "563666E4D93769CE"
+				type: "questsadditions:repeat"
+				title: "20x Bronze Coin"
+				table_id: 8864689688167188766L
+			}]
+		}
+		{
+			title: "64x Bones -> 20 Bronze Coins"
+			x: 4.5d
+			y: -1.5d
+			id: "30265A1A211BF7A1"
+			tasks: [{
+				id: "4BD7422A6673BF44"
+				type: "item"
+				item: "minecraft:bone"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4F6B3109691DDF0C"
+				type: "questsadditions:repeat"
+				title: "20x Bronze Coin"
+				auto: "enabled"
+				table_id: 8864689688167188766L
+			}]
+		}
+		{
+			title: "64x Rotten Flesh -> 20 Bronze Coins"
+			x: 5.5d
+			y: -1.5d
+			id: "6A4D90BB519BEDE0"
+			tasks: [{
+				id: "19F76150EDCC40CE"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6C508581DACAA036"
+				type: "questsadditions:repeat"
+				title: "20x Bronze Coin"
+				table_id: 8864689688167188766L
+			}]
+		}
+		{
+			title: "Arrow Bundle (5x)"
+			icon: "valley:arrow_bundle"
+			x: -1.5d
+			y: -1.5d
+			id: "4153BD21F293C0AA"
+			tasks: [{
+				id: "30C4369908B3060E"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 50L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0017804640624EBA"
+				type: "questsadditions:repeat"
+				title: "Arrow Bundle x5"
+				auto: "enabled"
+				table_id: 3635340255161933327L
+			}]
+		}
+		{
+			title: "Lantern"
+			icon: "minecraft:lantern"
+			x: -0.5d
+			y: -1.5d
+			id: "4CC3F5EF3F6D10C9"
+			tasks: [{
+				id: "4B86C350BF11A383"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2AE7A7FBA0F0400E"
+				type: "questsadditions:repeat"
+				title: "Lantern"
+				auto: "enabled"
+				table_id: 5569675297636864937L
+			}]
+		}
+		{
+			title: "Coal (5x)"
+			icon: "minecraft:coal"
+			x: 0.5d
+			y: -1.5d
+			id: "7E93296AB6CD4440"
+			tasks: [{
+				id: "74F3D98DD522DA72"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "54828F2C3A198CE6"
+				type: "questsadditions:repeat"
+				title: "Coal"
+				auto: "enabled"
+				table_id: 9038267266374175708L
+			}]
+		}
+		{
+			title: "Chest"
+			icon: "minecraft:chest"
+			x: 1.5d
+			y: -1.5d
+			id: "63FD8E55A2B0520D"
+			tasks: [{
+				id: "1A70D54709294E9C"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:silver_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "763D7014B9CC2F6D"
+				type: "questsadditions:repeat"
+				title: "Chest"
+				auto: "enabled"
+				table_id: 376479952623328950L
+			}]
+		}
+		{
+			title: "Any Slimeball -> 20x Bronze Coins"
+			x: 7.5d
+			y: -1.5d
+			id: "6F328195DC95DDE1"
+			tasks: [{
+				id: "5BAFE3C338BB84AF"
+				type: "item"
+				title: "Any Slimeballs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "c:slime_balls"
+					}
+				}
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6B04E011B5B90FD7"
+				type: "questsadditions:repeat"
+				title: "20x Bronze Coin"
+				table_id: 8864689688167188766L
+			}]
+		}
+		{
+			x: -5.5d
+			y: -1.5d
+			id: "6B46986A35E22BE5"
+			tasks: [{
+				id: "79835F5269767498"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "33C6A248A2D6FAF2"
+				type: "questsadditions:repeat"
+				title: "Bread (10x)"
+				table_id: 7183324839059427180L
+			}]
+		}
+	]
+}

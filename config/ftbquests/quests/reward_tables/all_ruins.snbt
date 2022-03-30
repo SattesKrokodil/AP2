@@ -1,0 +1,13 @@
+{
+	id: "1616D08B8D295F4F"
+	order_index: 3
+	title: "all_ruins"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{
+		auto: "enabled"
+		command: "/loot give @p loot minecraft:chests/rooms/sewers/sewers_all_rooms"
+		player_command: false
+		type: "command"
+	}]
+}

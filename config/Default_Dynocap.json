@@ -1,0 +1,42 @@
+{
+  "id": "dynocap",
+  "max_width": 16,
+  "max_depth": 16,
+  "max_height": 16,
+  "default_width": 5,
+  "default_depth": 5,
+  "default_height": 5,
+  "color": "8728eb",
+  "max_damage": -1,
+  "default_name": "Dynocap",
+  "attributes": [
+    "requiresEmptyArea",
+    "3dmodel",
+    "capturesEntities"
+  ],
+  "repair_item": "minecraft:air",
+  "model_color": "dddddd",
+  "preventCaptureBlocks": [
+    "minecraft:command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:chain_command_block",
+    "minecraft:structure_block",
+    "minecraft:nether_portal",
+    "minecraft:barrier",
+    "minecraft:bedrock",
+    "minecraft:end_portal_frame",
+    "minecraft:end_gateway"
+  ],
+  "preventOverrideBlocks": [
+    "minecraft:command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:chain_command_block",
+    "minecraft:structure_block",
+    "minecraft:nether_portal",
+    "minecraft:barrier",
+    "minecraft:bedrock",
+    "minecraft:end_portal_frame",
+    "minecraft:end_gateway"
+  ],
+  "preventCaptureEntities": []
+}

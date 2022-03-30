@@ -1,0 +1,13 @@
+{
+	id: "7ECC402B7A33FFD6"
+	order_index: 2
+	title: "all_sewers"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{
+		auto: "enabled"
+		command: "/loot give @p loot minecraft:chests/rooms/sewers/sewers_all_rooms"
+		player_command: false
+		type: "command"
+	}]
+}

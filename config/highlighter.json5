@@ -4,5 +4,5 @@
 	// If new item markers should be cleared when the item tooltip is displayed.
 	"clearOnHover": true,
 	// If icons should match the color of items names (as shown in tooltips).  Otherwise icons will all be gold.
-	"useItemNameColor": false
+	"useItemNameColor": true
 }

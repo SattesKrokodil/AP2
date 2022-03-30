@@ -6,14 +6,6 @@
     "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
   ],
   "MAINHAND": {
-    "bewitchment:athame": [
-      1297,
-      -2.376
-    ],
-    "bewitchment:horned_spear": [
-      955,
-      0.36
-    ],
     "botania:crystal_bow": [
       1050,
       0.0
@@ -58,19 +50,303 @@
       568,
       3.456
     ],
+    "coolstuff:axe_i": [
+      1087,
+      -0.696
+    ],
+    "coolstuff:axe_ii": [
+      639,
+      2.888
+    ],
+    "coolstuff:axe_iii": [
+      440,
+      4.48
+    ],
+    "coolstuff:dagger_i": [
+      1297,
+      -2.376
+    ],
+    "coolstuff:dagger_ii": [
+      869,
+      1.048
+    ],
+    "coolstuff:dagger_iii": [
+      690,
+      2.48
+    ],
+    "coolstuff:gauntlet_i": [
+      1263,
+      -2.104
+    ],
+    "coolstuff:gauntlet_ii": [
+      831,
+      1.352
+    ],
+    "coolstuff:gauntlet_iii": [
+      648,
+      2.816
+    ],
+    "coolstuff:hammer_i": [
+      975,
+      0.2
+    ],
+    "coolstuff:hammer_ii": [
+      519,
+      3.848
+    ],
+    "coolstuff:hammer_iii": [
+      312,
+      5.504
+    ],
+    "coolstuff:mace_i": [
+      1033,
+      -0.264
+    ],
+    "coolstuff:mace_ii": [
+      581,
+      3.352
+    ],
+    "coolstuff:mace_iii": [
+      378,
+      4.976
+    ],
+    "coolstuff:scepter_i": [
+      1137,
+      -1.096
+    ],
+    "coolstuff:scepter_ii": [
+      693,
+      2.456
+    ],
+    "coolstuff:scepter_iii": [
+      498,
+      4.016
+    ],
+    "coolstuff:scythe_i": [
+      1087,
+      -0.696
+    ],
+    "coolstuff:scythe_ii": [
+      639,
+      2.888
+    ],
+    "coolstuff:scythe_iii": [
+      440,
+      4.48
+    ],
+    "coolstuff:spear_i": [
+      1183,
+      -1.464
+    ],
+    "coolstuff:spear_ii": [
+      743,
+      2.056
+    ],
+    "coolstuff:spear_iii": [
+      552,
+      3.584
+    ],
+    "coolstuff:staff_i": [
+      1297,
+      -2.376
+    ],
+    "coolstuff:staff_ii": [
+      869,
+      1.048
+    ],
+    "coolstuff:staff_iii": [
+      690,
+      2.48
+    ],
+    "coolstuff:sword_i": [
+      1183,
+      -1.464
+    ],
+    "coolstuff:sword_ii": [
+      743,
+      2.056
+    ],
+    "coolstuff:sword_iii": [
+      552,
+      3.584
+    ],
+    "coolstuff:sword_unique_void_grasp": [
+      552,
+      3.584
+    ],
+    "gateofbabylon:diamond_bow": [
+      519,
+      0.0
+    ],
+    "gateofbabylon:diamond_broadsword": [
+      453,
+      4.376
+    ],
+    "gateofbabylon:diamond_dagger": [
+      831,
+      1.352
+    ],
+    "gateofbabylon:diamond_haladie": [
+      869,
+      1.048
+    ],
+    "gateofbabylon:diamond_katana": [
+      693,
+      2.456
+    ],
+    "gateofbabylon:diamond_rapier": [
+      933,
+      0.536
+    ],
+    "gateofbabylon:diamond_waraxe": [
+      453,
+      4.376
+    ],
+    "gateofbabylon:golden_bow": [
+      1225,
+      0.0
+    ],
+    "gateofbabylon:golden_broadsword": [
+      1238,
+      -1.904
+    ],
+    "gateofbabylon:golden_dagger": [
+      1382,
+      -3.056
+    ],
+    "gateofbabylon:golden_haladie": [
+      1408,
+      -3.264
+    ],
+    "gateofbabylon:golden_katana": [
+      1280,
+      -2.24
+    ],
+    "gateofbabylon:golden_rapier": [
+      1408,
+      -3.264
+    ],
+    "gateofbabylon:golden_waraxe": [
+      1280,
+      -2.24
+    ],
+    "gateofbabylon:iron_bow": [
+      925,
+      0.0
+    ],
+    "gateofbabylon:iron_broadsword": [
+      975,
+      0.2
+    ],
+    "gateofbabylon:iron_dagger": [
+      1263,
+      -2.104
+    ],
+    "gateofbabylon:iron_haladie": [
+      1297,
+      -2.376
+    ],
+    "gateofbabylon:iron_katana": [
+      1087,
+      -0.696
+    ],
+    "gateofbabylon:iron_rapier": [
+      1327,
+      -2.616
+    ],
+    "gateofbabylon:iron_waraxe": [
+      975,
+      0.2
+    ],
+    "gateofbabylon:netherite_bow": [
+      284,
+      0.0
+    ],
+    "gateofbabylon:netherite_broadsword": [
+      168,
+      6.656
+    ],
+    "gateofbabylon:netherite_dagger": [
+      690,
+      2.48
+    ],
+    "gateofbabylon:netherite_haladie": [
+      690,
+      2.48
+    ],
+    "gateofbabylon:netherite_katana": [
+      498,
+      4.016
+    ],
+    "gateofbabylon:netherite_rapier": [
+      762,
+      1.904
+    ],
+    "gateofbabylon:netherite_waraxe": [
+      168,
+      6.656
+    ],
+    "gateofbabylon:stone_bow": [
+      1087,
+      0.0
+    ],
+    "gateofbabylon:stone_broadsword": [
+      1122,
+      -0.976
+    ],
+    "gateofbabylon:stone_dagger": [
+      1332,
+      -2.656
+    ],
+    "gateofbabylon:stone_haladie": [
+      1362,
+      -2.896
+    ],
+    "gateofbabylon:stone_katana": [
+      1218,
+      -1.744
+    ],
+    "gateofbabylon:stone_rapier": [
+      1388,
+      -3.104
+    ],
+    "gateofbabylon:stone_waraxe": [
+      1172,
+      -1.376
+    ],
+    "gateofbabylon:wooden_broadsword": [
+      1240,
+      -1.92
+    ],
+    "gateofbabylon:wooden_dagger": [
+      1384,
+      -3.072
+    ],
+    "gateofbabylon:wooden_haladie": [
+      1410,
+      -3.28
+    ],
+    "gateofbabylon:wooden_katana": [
+      1282,
+      -2.256
+    ],
+    "gateofbabylon:wooden_rapier": [
+      1410,
+      -3.28
+    ],
+    "gateofbabylon:wooden_waraxe": [
+      1282,
+      -2.256
+    ],
     "graveyard:bone_dagger": [
       1298,
       -2.384
     ],
-    "incubus_core:lunarian_saber": [
-      690,
-      2.48
-    ],
-    "mcdw:axe": [
+    "mcdw:axe_anchor": [
       1087,
       -0.696
     ],
-    "mcdw:axe_anchor": [
+    "mcdw:axe_axe": [
       1087,
       -0.696
     ],
@@ -367,8 +643,8 @@
       1.688
     ],
     "mcdw:dagger_chill_gale_knife": [
-      1183,
-      -1.464
+      789,
+      1.688
     ],
     "mcdw:dagger_dagger": [
       1297,
@@ -446,7 +722,7 @@
       693,
       2.456
     ],
-    "mcdw:hammer_great": [
+    "mcdw:hammer_great_hammer": [
       1183,
       -1.464
     ],
@@ -599,8 +875,8 @@
       -2.376
     ],
     "mcdw:sword_obsidian_claymore": [
-      975,
-      0.2
+      440,
+      4.48
     ],
     "mcdw:sword_rapier": [
       1327,
@@ -615,8 +891,8 @@
       -1.8
     ],
     "mcdw:sword_the_starless_night": [
-      847,
-      1.224
+      312,
+      5.504
     ],
     "mcdw:sword_truthseeker": [
       602,
@@ -643,12 +919,12 @@
       0.0
     ],
     "minecraft:golden_axe": [
-      1248,
-      -1.984
+      1238,
+      -1.904
     ],
     "minecraft:golden_sword": [
-      1362,
-      -2.896
+      1352,
+      -2.816
     ],
     "minecraft:iron_axe": [
       1087,
@@ -702,173 +978,45 @@
       1354,
       -2.832
     ],
-    "mythicmetals:adamantite_axe": [
-      742,
-      2.064
+    "mobz:armored_sword": [
+      983,
+      0.136
     ],
-    "mythicmetals:adamantite_sword": [
-      854,
-      1.168
+    "mobz:axe": [
+      693,
+      2.456
     ],
-    "mythicmetals:aquarium_axe": [
-      1121,
-      -0.968
+    "mobz:boss_sword": [
+      879,
+      0.968
     ],
-    "mythicmetals:aquarium_sword": [
-      1163,
-      -1.304
+    "mobz:debuger": [
+      1,
+      64061.84
     ],
-    "mythicmetals:banglum_axe": [
-      1180,
-      -1.44
+    "mobz:frozen_sword": [
+      1071,
+      -0.568
     ],
-    "mythicmetals:banglum_sword": [
-      1222,
-      -1.776
+    "mobz:poison_sword": [
+      1071,
+      -0.568
     ],
-    "mythicmetals:bronze_axe": [
-      1048,
-      -0.384
+    "mobz:sbow": [
+      1069,
+      0.0
     ],
-    "mythicmetals:bronze_sword": [
-      1092,
-      -0.736
+    "mobz:sword": [
+      983,
+      0.136
     ],
-    "mythicmetals:carmot_axe": [
-      1039,
-      -0.312
+    "mobz:v_sword": [
+      1109,
+      -0.872
     ],
-    "mythicmetals:carmot_sword": [
-      1081,
-      -0.648
-    ],
-    "mythicmetals:celestium_axe": [
-      369,
-      5.048
-    ],
-    "mythicmetals:celestium_sword": [
-      427,
-      4.584
-    ],
-    "mythicmetals:copper_axe": [
-      1262,
-      -2.096
-    ],
-    "mythicmetals:copper_sword": [
-      1300,
-      -2.4
-    ],
-    "mythicmetals:durasteel_axe": [
-      895,
-      0.84
-    ],
-    "mythicmetals:durasteel_sword": [
-      995,
-      0.04
-    ],
-    "mythicmetals:hallowed_axe": [
-      619,
-      3.048
-    ],
-    "mythicmetals:hallowed_sword": [
-      673,
-      2.616
-    ],
-    "mythicmetals:kyber_axe": [
-      968,
-      0.256
-    ],
-    "mythicmetals:kyber_sword": [
-      1012,
-      -0.096
-    ],
-    "mythicmetals:metallurgium_axe": [
-      22,
-      7.824
-    ],
-    "mythicmetals:metallurgium_sword": [
-      150,
-      6.8
-    ],
-    "mythicmetals:mythril_axe": [
-      904,
-      0.768
-    ],
-    "mythicmetals:mythril_sword": [
-      950,
-      0.4
-    ],
-    "mythicmetals:orichalcum_axe": [
-      493,
-      4.056
-    ],
-    "mythicmetals:orichalcum_sword": [
-      597,
-      3.224
-    ],
-    "mythicmetals:osmium_axe": [
-      1036,
-      -0.288
-    ],
-    "mythicmetals:osmium_sword": [
-      1124,
-      -0.992
-    ],
-    "mythicmetals:palladium_axe": [
-      817,
-      1.464
-    ],
-    "mythicmetals:palladium_sword": [
-      865,
-      1.08
-    ],
-    "mythicmetals:prometheum_axe": [
-      636,
-      2.912
-    ],
-    "mythicmetals:prometheum_sword": [
-      740,
-      2.08
-    ],
-    "mythicmetals:quadrillum_axe": [
-      1139,
-      -1.112
-    ],
-    "mythicmetals:quadrillum_sword": [
-      1183,
-      -1.464
-    ],
-    "mythicmetals:red_aegis_sword": [
-      307,
-      5.544
-    ],
-    "mythicmetals:runite_axe": [
-      796,
-      1.632
-    ],
-    "mythicmetals:runite_sword": [
-      843,
-      1.256
-    ],
-    "mythicmetals:star_platinum_axe": [
-      822,
-      1.424
-    ],
-    "mythicmetals:star_platinum_sword": [
-      868,
-      1.056
-    ],
-    "mythicmetals:stormyx_axe": [
-      796,
-      1.632
-    ],
-    "mythicmetals:stormyx_sword": [
-      844,
-      1.248
-    ],
-    "mythicmetals:white_aegis_sword": [
-      427,
-      4.584
+    "mobz:wither_sword": [
+      1029,
+      -0.232
     ],
     "spectrum:bedrock_axe": [
       852,
@@ -889,9 +1037,77 @@
     "spectrum:looting_falchion": [
       1255,
       -2.04
+    ],
+    "valley:diamond_hatchet": [
+      743,
+      2.056
+    ],
+    "valley:golden_hatchet": [
+      1318,
+      -2.544
+    ],
+    "valley:iron_hatchet": [
+      1183,
+      -1.464
+    ],
+    "valley:lumber_axe": [
+      1037,
+      -0.296
+    ],
+    "valley:mermaids_sword": [
+      1066,
+      -0.528
+    ],
+    "valley:netherite_hatchet": [
+      552,
+      3.584
+    ],
+    "valley:rg_axe": [
+      1137,
+      -1.096
+    ],
+    "valley:rg_hatchet": [
+      1225,
+      -1.8
+    ],
+    "valley:rg_sword": [
+      1225,
+      -1.8
+    ],
+    "valley:stone_hatchet": [
+      1260,
+      -2.08
+    ],
+    "valley:tree_branch": [
+      1420,
+      -3.36
+    ],
+    "valley:wood_hatchet": [
+      1320,
+      -2.56
     ]
   },
   "OFFHAND": {
+    "gateofbabylon:diamond_shield": [
+      1350,
+      0.0
+    ],
+    "gateofbabylon:golden_shield": [
+      1350,
+      0.0
+    ],
+    "gateofbabylon:iron_shield": [
+      1350,
+      0.0
+    ],
+    "gateofbabylon:netherite_shield": [
+      1350,
+      0.0
+    ],
+    "gateofbabylon:stone_shield": [
+      1350,
+      0.0
+    ],
     "mcdw:shield_royal_guard": [
       1350,
       0.0
@@ -915,6 +1131,10 @@
     "minecraft:shield": [
       1350,
       0.0
+    ],
+    "mobz:shield": [
+      1350,
+      0.0
     ]
   },
   "FEET": {
@@ -922,17 +1142,9 @@
       1,
       8.992
     ],
-    "alaskanativecraft:mukluks": [
-      1362,
-      -2.896
-    ],
-    "alaskanativecraft:snowshoes": [
-      1404,
-      -3.232
-    ],
-    "bewitchment:harbinger": [
-      1,
-      8.592
+    "biomemakeover:cladded_boots": [
+      944,
+      0.448
     ],
     "botania:elementium_boots": [
       704,
@@ -953,10 +1165,6 @@
     "doublejumpattribute:jump_boots": [
       1,
       8.08
-    ],
-    "environmentz:wolf_boots": [
-      1240,
-      -1.92
     ],
     "mcda:archers_boots": [
       829,
@@ -1246,97 +1454,41 @@
       361,
       5.112
     ],
-    "mythicmetals:adamantite_boots": [
-      72,
-      7.424
+    "mobz:amat_boots": [
+      515,
+      3.88
     ],
-    "mythicmetals:aquarium_boots": [
-      882,
-      0.944
-    ],
-    "mythicmetals:banglum_boots": [
-      690,
-      2.48
-    ],
-    "mythicmetals:bronze_boots": [
-      640,
-      2.88
-    ],
-    "mythicmetals:carmot_boots": [
-      208,
-      6.336
-    ],
-    "mythicmetals:celestium_boots": [
+    "mobz:boss_boots": [
       1,
-      14.216
+      11.368
     ],
-    "mythicmetals:copper_boots": [
-      1144,
-      -1.152
+    "mobz:life_boots": [
+      693,
+      2.456
     ],
-    "mythicmetals:durasteel_boots": [
-      174,
-      6.608
+    "mobz:speed2_boots": [
+      910,
+      0.72
     ],
-    "mythicmetals:hallowed_boots": [
-      1,
-      12.408
-    ],
-    "mythicmetals:kyber_boots": [
-      253,
-      5.976
-    ],
-    "mythicmetals:metallurgium_boots": [
-      1,
-      24.52
-    ],
-    "mythicmetals:midas_gold_boots": [
-      1027,
-      -0.216
-    ],
-    "mythicmetals:mythril_boots": [
-      91,
-      7.272
-    ],
-    "mythicmetals:orichalcum_boots": [
-      1,
-      12.576
-    ],
-    "mythicmetals:osmium_boots": [
-      805,
-      1.56
-    ],
-    "mythicmetals:palladium_boots": [
-      97,
-      7.224
-    ],
-    "mythicmetals:prometheum_boots": [
-      256,
-      5.952
-    ],
-    "mythicmetals:runite_boots": [
-      112,
-      7.104
-    ],
-    "mythicmetals:silver_boots": [
-      1132,
-      -1.056
-    ],
-    "mythicmetals:star_platinum_boots": [
-      20,
-      7.84
-    ],
-    "mythicmetals:stormyx_boots": [
-      68,
-      7.456
+    "mobz:speed_boots": [
+      1112,
+      -0.896
     ],
     "spectrum:bedrock_boots": [
       1,
       31.408
     ],
     "spectrum:emergency_boots": [
-      560,
-      3.52
+      572,
+      3.424
+    ],
+    "valley:rg_boots": [
+      992,
+      0.064
+    ],
+    "valley:turtle_boots": [
+      865,
+      1.08
     ]
   },
   "LEGS": {
@@ -1344,17 +1496,9 @@
       1,
       8.992
     ],
-    "bewitchment:alchemist_pants": [
-      935,
-      0.52
-    ],
-    "bewitchment:besmirched_pants": [
-      935,
-      0.52
-    ],
-    "bewitchment:hedgewitch_pants": [
-      935,
-      0.52
+    "biomemakeover:cladded_leggings": [
+      944,
+      0.448
     ],
     "botania:elementium_leggings": [
       704,
@@ -1371,10 +1515,6 @@
     "botania:terrasteel_leggings": [
       1,
       8.312
-    ],
-    "environmentz:wolf_leggings": [
-      1240,
-      -1.92
     ],
     "mcda:archers_leggings": [
       829,
@@ -1684,107 +1824,39 @@
       361,
       5.112
     ],
-    "mythicmetals:adamantite_leggings": [
-      72,
-      7.424
+    "mobz:amat_leggings": [
+      515,
+      3.88
     ],
-    "mythicmetals:aquarium_leggings": [
-      882,
-      0.944
-    ],
-    "mythicmetals:banglum_leggings": [
-      690,
-      2.48
-    ],
-    "mythicmetals:bronze_leggings": [
-      640,
-      2.88
-    ],
-    "mythicmetals:carmot_leggings": [
-      208,
-      6.336
-    ],
-    "mythicmetals:celestium_leggings": [
+    "mobz:boss_leggings": [
       1,
-      14.216
+      11.368
     ],
-    "mythicmetals:copper_leggings": [
-      1144,
-      -1.152
-    ],
-    "mythicmetals:durasteel_leggings": [
-      174,
-      6.608
-    ],
-    "mythicmetals:hallowed_leggings": [
-      1,
-      12.408
-    ],
-    "mythicmetals:kyber_leggings": [
-      253,
-      5.976
-    ],
-    "mythicmetals:metallurgium_leggings": [
-      1,
-      24.52
-    ],
-    "mythicmetals:midas_gold_leggings": [
-      1027,
-      -0.216
-    ],
-    "mythicmetals:mythril_leggings": [
-      91,
-      7.272
-    ],
-    "mythicmetals:orichalcum_leggings": [
-      1,
-      12.576
-    ],
-    "mythicmetals:osmium_leggings": [
-      805,
-      1.56
-    ],
-    "mythicmetals:palladium_leggings": [
-      97,
-      7.224
-    ],
-    "mythicmetals:prometheum_leggings": [
-      256,
-      5.952
-    ],
-    "mythicmetals:runite_leggings": [
-      112,
-      7.104
-    ],
-    "mythicmetals:silver_leggings": [
-      1132,
-      -1.056
-    ],
-    "mythicmetals:star_platinum_leggings": [
-      20,
-      7.84
-    ],
-    "mythicmetals:stormyx_leggings": [
-      68,
-      7.456
+    "mobz:life_leggings": [
+      693,
+      2.456
     ],
     "spectrum:bedrock_leggings": [
       1,
       31.408
     ],
     "spectrum:emergency_leggings": [
-      560,
-      3.52
+      572,
+      3.424
+    ],
+    "valley:rg_leggings": [
+      992,
+      0.064
+    ],
+    "valley:turtle_leggings": [
+      865,
+      1.08
     ]
   },
   "CHEST": {
     "adventurez:stone_golem_chestplate": [
       1,
       8.992
-    ],
-    "alaskanativecraft:kuspuk_body": [
-      1362,
-      -2.896
     ],
     "betteranimalsplus:bear_cape_black": [
       933,
@@ -1822,17 +1894,9 @@
       933,
       0.536
     ],
-    "bewitchment:alchemist_robes": [
-      935,
-      0.52
-    ],
-    "bewitchment:besmirched_robes": [
-      935,
-      0.52
-    ],
-    "bewitchment:hedgewitch_robes": [
-      935,
-      0.52
+    "biomemakeover:cladded_chestplate": [
+      944,
+      0.448
     ],
     "botania:elementium_chestplate": [
       704,
@@ -1849,10 +1913,6 @@
     "botania:terrasteel_chestplate": [
       1,
       8.312
-    ],
-    "environmentz:wolf_chestplate": [
-      1240,
-      -1.92
     ],
     "mcda:archers_chestplate": [
       829,
@@ -2166,97 +2226,37 @@
       361,
       5.112
     ],
-    "mythicmetals:adamantite_chestplate": [
-      72,
-      7.424
+    "mobz:amat_chestplate": [
+      515,
+      3.88
     ],
-    "mythicmetals:aquarium_chestplate": [
-      882,
-      0.944
-    ],
-    "mythicmetals:banglum_chestplate": [
-      690,
-      2.48
-    ],
-    "mythicmetals:bronze_chestplate": [
-      640,
-      2.88
-    ],
-    "mythicmetals:carmot_chestplate": [
-      208,
-      6.336
-    ],
-    "mythicmetals:celestium_chestplate": [
+    "mobz:boss_chestplate": [
       1,
-      14.216
+      11.368
     ],
-    "mythicmetals:copper_chestplate": [
-      1144,
-      -1.152
-    ],
-    "mythicmetals:durasteel_chestplate": [
-      174,
-      6.608
-    ],
-    "mythicmetals:hallowed_chestplate": [
-      1,
-      12.408
-    ],
-    "mythicmetals:kyber_chestplate": [
-      253,
-      5.976
-    ],
-    "mythicmetals:metallurgium_chestplate": [
-      1,
-      24.52
-    ],
-    "mythicmetals:midas_gold_chestplate": [
-      1027,
-      -0.216
-    ],
-    "mythicmetals:mythril_chestplate": [
-      91,
-      7.272
-    ],
-    "mythicmetals:orichalcum_chestplate": [
-      1,
-      12.576
-    ],
-    "mythicmetals:osmium_chestplate": [
-      805,
-      1.56
-    ],
-    "mythicmetals:palladium_chestplate": [
-      97,
-      7.224
-    ],
-    "mythicmetals:prometheum_chestplate": [
-      256,
-      5.952
-    ],
-    "mythicmetals:runite_chestplate": [
-      112,
-      7.104
-    ],
-    "mythicmetals:silver_chestplate": [
-      1132,
-      -1.056
-    ],
-    "mythicmetals:star_platinum_chestplate": [
-      20,
-      7.84
-    ],
-    "mythicmetals:stormyx_chestplate": [
-      68,
-      7.456
+    "mobz:life_chestplate": [
+      693,
+      2.456
     ],
     "spectrum:bedrock_chestplate": [
       1,
       31.408
     ],
     "spectrum:emergency_chestplate": [
-      560,
-      3.52
+      572,
+      3.424
+    ],
+    "valley:fur_chestplate": [
+      800,
+      1.6
+    ],
+    "valley:rg_chestplate": [
+      992,
+      0.064
+    ],
+    "valley:turtle_chestplate": [
+      865,
+      1.08
     ]
   },
   "HEAD": {
@@ -2264,37 +2264,17 @@
       1,
       8.992
     ],
-    "alaskanativecraft:kuspuk_hood": [
-      1362,
-      -2.896
+    "biomemakeover:cladded_helmet": [
+      944,
+      0.448
     ],
-    "alaskanativecraft:snow_goggles": [
-      1404,
-      -3.232
+    "biomemakeover:cowboy_hat": [
+      1074,
+      -0.592
     ],
-    "bewitchment:alchemist_hat": [
-      935,
-      0.52
-    ],
-    "bewitchment:alchemist_hood": [
-      935,
-      0.52
-    ],
-    "bewitchment:besmirched_hat": [
-      935,
-      0.52
-    ],
-    "bewitchment:besmirched_hood": [
-      935,
-      0.52
-    ],
-    "bewitchment:hedgewitch_hat": [
-      935,
-      0.52
-    ],
-    "bewitchment:hedgewitch_hood": [
-      935,
-      0.52
+    "biomemakeover:witch_hat": [
+      1074,
+      -0.592
     ],
     "botania:elementium_helmet": [
       704,
@@ -2311,10 +2291,6 @@
     "botania:terrasteel_helmet": [
       1,
       8.312
-    ],
-    "environmentz:wolf_helmet": [
-      1240,
-      -1.92
     ],
     "mcda:archers_helmet": [
       829,
@@ -2616,105 +2592,33 @@
       865,
       1.08
     ],
-    "mythicmetals:adamantite_helmet": [
-      72,
-      7.424
+    "mobz:amat_helmet": [
+      515,
+      3.88
     ],
-    "mythicmetals:aquarium_helmet": [
-      882,
-      0.944
-    ],
-    "mythicmetals:banglum_helmet": [
-      690,
-      2.48
-    ],
-    "mythicmetals:bronze_helmet": [
-      640,
-      2.88
-    ],
-    "mythicmetals:carmot_helmet": [
-      208,
-      6.336
-    ],
-    "mythicmetals:celestium_helmet": [
+    "mobz:boss_helmet": [
       1,
-      14.216
+      11.368
     ],
-    "mythicmetals:copper_helmet": [
-      1144,
-      -1.152
-    ],
-    "mythicmetals:durasteel_helmet": [
-      174,
-      6.608
-    ],
-    "mythicmetals:hallowed_helmet": [
-      1,
-      12.408
-    ],
-    "mythicmetals:kyber_helmet": [
-      253,
-      5.976
-    ],
-    "mythicmetals:metallurgium_helmet": [
-      1,
-      24.52
-    ],
-    "mythicmetals:midas_gold_helmet": [
-      1027,
-      -0.216
-    ],
-    "mythicmetals:mythril_helmet": [
-      91,
-      7.272
-    ],
-    "mythicmetals:orichalcum_helmet": [
-      1,
-      12.576
-    ],
-    "mythicmetals:osmium_helmet": [
-      805,
-      1.56
-    ],
-    "mythicmetals:palladium_helmet": [
-      97,
-      7.224
-    ],
-    "mythicmetals:prometheum_helmet": [
-      256,
-      5.952
-    ],
-    "mythicmetals:runite_helmet": [
-      112,
-      7.104
-    ],
-    "mythicmetals:silver_helmet": [
-      1132,
-      -1.056
-    ],
-    "mythicmetals:star_platinum_helmet": [
-      20,
-      7.84
-    ],
-    "mythicmetals:stormyx_helmet": [
-      68,
-      7.456
-    ],
-    "sculk_worm:sensor_helmet": [
-      302,
-      5.584
+    "mobz:life_helmet": [
+      693,
+      2.456
     ],
     "spectrum:bedrock_helmet": [
       1,
       31.408
     ],
     "spectrum:emergency_helmet": [
-      560,
-      3.52
+      572,
+      3.424
     ],
     "spectrum:glow_vision_helmet": [
       1188,
       -1.504
+    ],
+    "valley:rg_helmet": [
+      992,
+      0.064
     ]
   }
 }

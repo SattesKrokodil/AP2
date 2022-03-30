@@ -1,14 +1,10 @@
 {
-  "levelz": {
-    "mineable_info": true,
-    "mineable_level_info": false
-  },
   "waila": {
     "show_blocks": true,
     "show_fluids": false,
-    "show_entities": true,
+    "show_entities": false,
     "show_item": true,
-    "show_mod_name": true,
+    "show_mod_name": false,
     "show_registry": false,
     "show_entity_hp": false,
     "show_states": false,
@@ -21,7 +17,7 @@
     "override.powder_snow": true,
     "pet.owner": true,
     "furnace_contents": true,
-    "spawner_type": false,
+    "spawner_type": true,
     "crop_progress": true,
     "redstone.lever": true,
     "redstone.repeater": true,
@@ -35,5 +31,8 @@
     "note_block.note": "SHARP",
     "note_block.int_value": false,
     "pet.hide_unknown_owner": false
+  },
+  "nameplate": {
+    "mob_level_info": true
   }
 }

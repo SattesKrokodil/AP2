@@ -1,0 +1,14 @@
+{
+	id: "4B78A4AC1687F4CC"
+	order_index: 0
+	title: "all_rooms"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{
+		title: "all rooms"
+		auto: "enabled"
+		command: "/loot give @p loot minecraft:chests/rooms/general/all_rooms"
+		player_command: false
+		type: "command"
+	}]
+}

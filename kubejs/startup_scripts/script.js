@@ -9,6 +9,14 @@ onEvent('item.registry', event => {
       item.displayName('Raw Resin').tooltip("This is a test item.")
 	})
 	
+			event.create('sewers_core', item => {
+      item.displayName('Sewers Core').tooltip("Used to buy rooms and connectors")
+	})
+	
+			event.create('ruins_core', item => {
+      item.displayName('Ruins Core').tooltip("Used to buy rooms and connectors.")
+	})
+	
 		event.create('sw_connector', item => {
       item.displayName('SW Connector').tooltip("This is a test item.")
 	})

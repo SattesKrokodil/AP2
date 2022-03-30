@@ -1,0 +1,9 @@
+{
+	id: "63B04BE1DA608F6C"
+	order_index: 13
+	title: "bread"
+	icon: "minecraft:bread"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "minecraft:bread", count: 10 }]
+}

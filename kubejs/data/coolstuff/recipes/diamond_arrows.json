@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "o  ",
+    "x  "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "valley:arrow_bundle"
+    },
+    "x":
+    {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result":
+  {
+    "item": "xtraarrows:diamond_arrow",
+    "count": 16
+  }
+}

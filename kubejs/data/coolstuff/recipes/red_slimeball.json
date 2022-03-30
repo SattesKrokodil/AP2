@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " o ",
+    "oxo",
+    " o "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "terrarianslimes:red_gel"
+    },
+    "x":
+    {
+      "item": "elementalcreepers:magma_gunpowder"
+    }
+  },
+  "result":
+  {
+    "item": "terrarianslimes:red_slime_ball",
+    "count": 1
+  }
+}

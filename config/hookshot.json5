@@ -8,7 +8,7 @@
 	/* Should the Unhookable Tag act as a blacklist (true) or
 	     a whitelist (false)? (Default: true)
 	*/
-	"unhookableBlacklist": true,
+	"unhookableBlacklist": false,
 	/* Should the Hookshot cancel all fall damage if the
 	     Hook is active in the world and connected to
 	     something? (Default: false)

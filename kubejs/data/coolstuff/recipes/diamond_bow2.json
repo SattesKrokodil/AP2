@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "gateofbabylon:golden_bow"
+  },
+  "addition": {
+    "item": "coolstuff:plate_diamond"
+  },
+
+  "result": {
+    "item": "gateofbabylon:diamond_bow"
+  }
+}

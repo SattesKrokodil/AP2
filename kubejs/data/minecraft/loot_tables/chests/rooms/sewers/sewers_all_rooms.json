@@ -1,0 +1,99 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 50,
+          "name": "minecraft:chests/rooms/sewers/002_001_001_1_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 50,
+          "name": "minecraft:chests/rooms/sewers/002_002_001_1_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 50,
+          "name": "minecraft:chests/rooms/sewers/002_003_001_1_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 25,
+          "name": "minecraft:chests/rooms/sewers/002_004_003_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_050_014_1_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_051_014_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_052_009_1_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_053_009_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_054_007_1_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_055_007_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_056_004_1_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_057_004_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_058_008_0_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_059_008_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_060_005_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_061_005_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_062_006_0_0"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "name": "minecraft:chests/rooms/sewers/002_063_006_0_0"
+        }
+      ]
+    }
+  ]
+}

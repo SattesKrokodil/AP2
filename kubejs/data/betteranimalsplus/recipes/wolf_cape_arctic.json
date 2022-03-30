@@ -10,14 +10,14 @@
 			"item": "betteranimalsplus:wolf_pelt_arctic"
 		},
 		"x": {
-			"item": "expert_armor:leather_plate"
+			"item": "coolstuff:plate_leather"
 		},
 		"f": {
 			"item": "mcda:fabric_bolt_white"
 		}
 	},
 	"result": {
-		"item": "betteranimalsplus:wolf_cape_arctic",
+		"item": "betteranimalsplus:wolf_cape_classic",
 		"count": 1
 	}
 }

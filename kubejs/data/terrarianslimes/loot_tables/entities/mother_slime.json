@@ -1,0 +1,35 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "elementalcreepers:hydrogen_gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:blackberry_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "croptopia:blackberry"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:black_petal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "terrarianslimes:black_gel"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.3
+        }
+      ]
+    }
+  ]
+}

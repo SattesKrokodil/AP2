@@ -1,0 +1,9 @@
+{
+	id: "05398685B12B5EB6"
+	order_index: 10
+	title: "chest"
+	icon: "minecraft:chest"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "minecraft:chest" }]
+}

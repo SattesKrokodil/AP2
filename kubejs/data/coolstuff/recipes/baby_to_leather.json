@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "inmis:baby_backpack"
+  },
+  "addition": {
+    "item": "coolstuff:plate_leather"
+  },
+
+  "result": {
+    "item": "inmis:frayed_backpack"
+  }
+}

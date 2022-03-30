@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "coolershields:diamond_banner_shield"
+  },
+  "addition": {
+    "item": "coolstuff:plate_netherite"
+  },
+
+  "result": {
+    "item": "coolershields:netherite_banner_shield"
+  }
+}

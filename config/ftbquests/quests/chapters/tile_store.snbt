@@ -1,0 +1,142 @@
+{
+	id: "664DB544834612A0"
+	group: ""
+	order_index: 1
+	filename: "tile_store"
+	title: "Tile Store"
+	icon: "kubejs:cross_connector"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Random Room or Connector"
+			icon: "kubejs:room"
+			x: -4.0d
+			y: -2.0d
+			subtitle: "(Excluding: Special Rooms, Trials, Special Themes, Progession Rooms ...)"
+			id: "1C09B22066A3D466"
+			tasks: [{
+				id: "3BFA704563D0FB34"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:gold_coin"
+					Count: 1b
+					tag: { }
+				}
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0BAA865E0454CB1C"
+				type: "questsadditions:repeat_random"
+				title: "Random Room or Connector"
+				icon: "kubejs:room"
+				auto: "enabled"
+				table_id: 5438277609069212876L
+			}]
+		}
+		{
+			title: "Random Ruins"
+			icon: "minecraft:infested_cracked_stone_bricks"
+			x: -5.0d
+			y: -0.5d
+			id: "051616D5239F91C0"
+			tasks: [
+				{
+					id: "09EFD2887F9D28C2"
+					type: "item"
+					item: "valley:skeleton_cookie_dough"
+					consume_items: true
+				}
+				{
+					id: "5B7CA75D46011E68"
+					type: "item"
+					item: "minecraft:skeleton_skull"
+					consume_items: true
+				}
+				{
+					id: "547A279418856530"
+					type: "item"
+					item: "kubejs:ruins_core"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "2DD32B0131D25824"
+				type: "questsadditions:repeat_random"
+				title: "Random Ruins Room"
+				icon: "minecraft:infested_cracked_stone_bricks"
+				auto: "enabled"
+				table_id: 1591688816109379407L
+			}]
+		}
+		{
+			title: "Random Sewers"
+			icon: "architects_palette:pipe"
+			x: -4.0d
+			y: -0.5d
+			id: "0E39D6072E37D6FF"
+			tasks: [
+				{
+					id: "31BF1A5EE0591BD5"
+					type: "item"
+					item: "architects_palette:algal_blend"
+					consume_items: true
+				}
+				{
+					id: "2C4B940FFF890B62"
+					type: "item"
+					item: "kubejs:sewers_core"
+					consume_items: true
+				}
+				{
+					id: "0F7FA72B76A70C5C"
+					type: "item"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "c:slime_balls"
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "6EDB2B8768F3B0CA"
+				type: "questsadditions:repeat_random"
+				title: "Random Sewers Room"
+				icon: "architects_palette:pipe"
+				auto: "enabled"
+				table_id: 9136748299505893334L
+			}]
+		}
+		{
+			title: "Random Connector"
+			icon: "kubejs:se_connector"
+			x: -5.0d
+			y: -2.0d
+			shape: "circle"
+			subtitle: "(Excluding: Special Rooms, Trials, Special Themes, Progession Rooms ...)"
+			id: "3D980BA746C844D1"
+			tasks: [{
+				id: "6B24A4FE4F8BBF0E"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:silver_coin"
+					Count: 50b
+					tag: { }
+				}
+				count: 50L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "00B2DD9982B608BC"
+				type: "questsadditions:repeat_random"
+				title: "Random Connector"
+				icon: "kubejs:sw_connector"
+				auto: "enabled"
+				table_id: 6145988152122782492L
+			}]
+		}
+	]
+}

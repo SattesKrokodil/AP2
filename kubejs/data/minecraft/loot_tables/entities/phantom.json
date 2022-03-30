@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "botania:cosmetic_engineer_goggles"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "terrarianslimes:purple_gel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:fabric_bolt_purple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_dye"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:purple_petal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:phantom_membrane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:phantom_skin"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcda:phantom_bones"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "elementalcreepers:illusion_gunpowder"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.3
+        }
+      ]
+    }
+  ]
+}

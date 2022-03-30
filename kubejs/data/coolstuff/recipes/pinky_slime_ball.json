@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " o ",
+    "oxo",
+    " o "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "terrarianslimes:pinky_gel"
+    },
+    "x":
+    {
+      "item": "elementalcreepers:firework_gunpowder"
+    }
+  },
+  "result":
+  {
+    "item": "terrarianslimes:pinky_slime_ball",
+    "count": 1
+  }
+}

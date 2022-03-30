@@ -1,13 +1,12 @@
 {
-    "replace": false,
-    "values": [
-	"minecraft:arrow",
-	"minecraft:bone",
-	"minecraft:rotten_flesh",
-	"valley:worm",
-	"valley:fur_clump",
-	"numismatic-overhaul:bronze_coin",
-	"coolstuff:plant_fiber"
-
-    ]
+	"replace": false,
+	"values": [
+		"minecraft:arrow",
+		"minecraft:bone",
+		"minecraft:rotten_flesh",
+		"valley:worm",
+		"valley:fur_clump",
+		"lootcrates:common_crate_key",
+		"minecraft:stick"
+	]
 }

@@ -1,0 +1,32 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "iron_axe"
+    },
+    "block_in": "oak_log",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "kubejs:raw_resin",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.3
+            }
+        },
+        {
+            "type": "drop_item",
+            "item": "minecraft:dirt",
+            "contextual": {
+                "type": "chance",
+                "chance": 1.0
+            }
+        },
+        {
+            "type": "place",
+            "block": "stripped_oak_log"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

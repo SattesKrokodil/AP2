@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coolstuff:jade",
+    "coolstuff:ruby",
+    "coolstuff:sapphire",
+    "coolstuff:topaz"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "y  ",
+    "o  ",
+    "x  "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "valley:arrow_bundle"
+    },
+    "x":
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    "y":
+    {
+      "item": "xtraarrows:vex_wing"
+    }
+  },
+  "result":
+  {
+    "item": "xtraarrows:netherite_vexing_arrow",
+    "count": 32
+  }
+}

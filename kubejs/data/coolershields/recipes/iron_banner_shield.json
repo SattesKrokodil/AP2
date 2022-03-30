@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "minecraft:shield"
+  },
+  "addition": {
+    "item": "coolstuff:plate_iron"
+  },
+
+  "result": {
+    "item": "coolershields:iron_banner_shield"
+  }
+}

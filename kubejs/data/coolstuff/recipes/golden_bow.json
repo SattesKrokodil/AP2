@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "coolstuff:plate_gold"
+  },
+
+  "result": {
+    "item": "gateofbabylon:golden_bow"
+  }
+}

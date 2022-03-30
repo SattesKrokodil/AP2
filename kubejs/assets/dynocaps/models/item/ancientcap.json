@@ -10,10 +10,11 @@
 		{"predicate": {"custom_model_data":1000004}, "model": "kubejs:item/ns_connector"},
 		{"predicate": {"custom_model_data":1000005}, "model": "kubejs:item/se_connector"},
 		{"predicate": {"custom_model_data":1000006}, "model": "kubejs:item/sw_connector"},
-		{"predicate": {"custom_model_data":1000014}, "model": "kubejs:item/cross_connector"},
-		{"predicate": {"custom_model_data":1000009}, "model": "kubejs:item/ew_connector"},
 		{"predicate": {"custom_model_data":1000007}, "model": "kubejs:item/ne_connector"},
-		{"predicate": {"custom_model_data":1000008}, "model": "kubejs:item/nw_connector"}
+
+		{"predicate": {"custom_model_data":1000008}, "model": "kubejs:item/nw_connector"},
+		{"predicate": {"custom_model_data":1000009}, "model": "kubejs:item/ew_connector"},
+		{"predicate": {"custom_model_data":1000014}, "model": "kubejs:item/cross_connector"}
 
 
 	]

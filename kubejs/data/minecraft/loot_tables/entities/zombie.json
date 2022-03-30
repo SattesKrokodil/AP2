@@ -20,6 +20,25 @@
       ]
     },
     {
+      "rolls": {
+        "min": 0,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "minecraft:cores",
+          "expand": true
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
       "rolls": 1,
       "entries": [
         {
@@ -31,11 +50,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.03
-        },
-        {
-          "condition": "minecraft:killed_by_player",
-          "inverse": true
+          "chance": 0.01
         }
       ]
     }

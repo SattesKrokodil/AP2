@@ -8,6 +8,7 @@
         "valley:copper_nugget",
         "valley:fur_clump",
         "numismatic-overhaul:bronze_coin",
-        "minecraft:arrow"
+        "minecraft:arrow",
+	"minecraft:stick"
     ]
 }

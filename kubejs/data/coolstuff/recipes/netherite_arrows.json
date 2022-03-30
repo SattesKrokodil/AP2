@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "o  ",
+    "x  "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "valley:arrow_bundle"
+    },
+    "x":
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "xtraarrows:netherite_arrow",
+    "count": 32
+  }
+}

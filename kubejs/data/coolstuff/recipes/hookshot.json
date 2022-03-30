@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "i  ",
+    "o  ",
+    "x  "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "minecraft:chain"
+    },
+    "x":
+    {
+      "item": "coolstuff:plate_iron"
+    },
+    "i":
+    {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result":
+  {
+    "item": "hookshot:white_hookshot",
+    "count": 1
+  }
+}

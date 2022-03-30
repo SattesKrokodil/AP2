@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "aaa",
+    "aaa",
+    " a "
+  ],
+  "key":
+  {
+    "a":
+    {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result":
+  {
+    "item": "coolershields:wooden_banner_shield",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " o ",
+    "oxo",
+    " o "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "terrarianslimes:jungle_gel"
+    },
+    "x":
+    {
+      "item": "elementalcreepers:earth_gunpowder"
+    }
+  },
+  "result":
+  {
+    "item": "terrarianslimes:jungle_slime_ball",
+    "count": 1
+  }
+}

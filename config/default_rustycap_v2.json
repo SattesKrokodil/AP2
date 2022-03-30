@@ -1,0 +1,21 @@
+{
+  "default_name": "Ancient Cap",
+  "max_width": 85,
+  "max_height": 85,
+  "max_depth": 85,
+  "default_color": "ffff00",
+  "max_damage": -1,
+  "repair_Item": "minecraft:air",
+  "model_base_color": "ffdddddd",
+  "preventCaptureBlocks": {},
+  "preventOverrideBlocks": {},
+  "preventCaptureEntity": {},
+  "isRusty": true,
+  "flags": {
+    "TYPE": "java.lang.String",
+    "SET": [
+      "canMakeDynoWorld",
+      "requiresEmptyArea"
+    ]
+  }
+}

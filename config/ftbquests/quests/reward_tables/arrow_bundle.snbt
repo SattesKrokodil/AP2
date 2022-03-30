@@ -1,0 +1,9 @@
+{
+	id: "327352B3829ADE0F"
+	order_index: 4
+	title: "Arrow Bundle"
+	icon: "valley:arrow_bundle"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "valley:arrow_bundle", count: 5 }]
+}

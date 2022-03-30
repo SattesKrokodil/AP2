@@ -8,7 +8,7 @@
 	// Ignore named creatures and monsters
 	"ignoreNamed": true,
 	// Enable Glowing Elite/Ultra/Eldritch Mobs upon discovery
-	"turnOnGlowingMobs": false,
+	"turnOnGlowingMobs": true,
 	// Out of 100 Mobs
 	"EliteSpawnRates": 1.0,
 	// Out of 100 Elites
@@ -54,11 +54,11 @@
 		"disableYeeter": false,
 		"disableBlinding": false,
 		"disableBurning": false,
-		"disableCloaked": false,
-		"disableDeflector": false,
-		"disableDraining": false,
+		"disableCloaked": true,
+		"disableDeflector": true,
+		"disableDraining": true,
 		"disableDrowning": false,
-		"disableEnder": false,
+		"disableEnder": true,
 		"disableGhastly": true,
 		"disableGravity": false,
 		"disableLethargic": false,
@@ -66,17 +66,17 @@
 		"disableOneUp": false,
 		"disableRegen": false,
 		"disableResistant": false,
-		"disableRust": false,
+		"disableRust": true,
 		"disableSpeedster": false,
 		"disableSprinter": false,
 		"disableStarving": false,
-		"disableStormy": false,
-		"disableThorny": false,
+		"disableStormy": true,
+		"disableThorny": true,
 		"disableToxic": false,
 		"disableWeakness": false,
-		"disableWebslinging": false,
+		"disableWebslinging": true,
 		"disableWithering": false,
 		"disableSniper": false,
-		"disableDuplicator": false
+		"disableDuplicator": true
 	}
 }
