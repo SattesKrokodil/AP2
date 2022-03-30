@@ -64,11 +64,6 @@
               "add": true
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 50,
-          "name": "waystones:local_void"
         }
       ]
     },
