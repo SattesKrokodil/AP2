@@ -13,11 +13,17 @@
           "weight": 50,
           "name": "minecraft:chests/rooms/sewers/002_002_001_1_1"
         },
+                {
+                  "type": "minecraft:loot_table",
+                  "weight": 50,
+                  "name": "minecraft:chests/rooms/sewers/002_064_001_1_1"
+                },
         {
           "type": "minecraft:loot_table",
           "weight": 50,
           "name": "minecraft:chests/rooms/sewers/002_003_001_1_1"
         },
+
         {
           "type": "minecraft:loot_table",
           "weight": 25,
@@ -92,8 +98,14 @@
           "type": "minecraft:loot_table",
           "weight": 100,
           "name": "minecraft:chests/rooms/sewers/002_063_006_0_0"
-        }
+        },
+                        {
+                          "type": "minecraft:loot_table",
+                          "weight": 100,
+                          "name": "minecraft:chests/rooms/sewers/002_065_014_0_1"
+                        }
       ]
     }
   ]
 }
+

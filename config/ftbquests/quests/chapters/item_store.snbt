@@ -327,6 +327,8 @@
 			}]
 		}
 		{
+			title: "Bread (10x)"
+			icon: "minecraft:bread"
 			x: -5.5d
 			y: -1.5d
 			id: "6B46986A35E22BE5"
@@ -345,6 +347,7 @@
 				id: "33C6A248A2D6FAF2"
 				type: "questsadditions:repeat"
 				title: "Bread (10x)"
+				auto: "enabled"
 				table_id: 7183324839059427180L
 			}]
 		}

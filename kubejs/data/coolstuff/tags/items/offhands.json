@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shield",
+	"coolershields:netherite_banner_shield",
+	"coolershields:diamond_banner_shield",
+	"coolershields:golden_banner_shield",
+	"coolershields:iron_banner_shield",
+	"coolershields:wooden_banner_shield",
+	"mcdw:shield_royal_guard",
+	"mcdw:shield_vanguard"
+  ]
+}

@@ -142,7 +142,57 @@
           "type": "minecraft:loot_table",
           "weight": 100,
           "name": "minecraft:chests/rooms/sewers/002_063_006_0_0"
-        }
+        },
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_064_009_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_065_009_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_066_014_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_067_007_1_0"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_068_004_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_069_004_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_070_008_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_071_006_1_0"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_072_005_0_1"
+        			},
+        			{
+        				"type": "minecraft:loot_table",
+        				"weight": 100,
+        				"name": "minecraft:chests/rooms/ruins/001_073_005_0_0"
+        			}
       ]
     }
   ]

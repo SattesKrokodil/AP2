@@ -154,7 +154,22 @@
 		"mcdw:pick_mountaineer_pick",
 		"mcdw:spear_glaive",
 		"mcdw:staff_battlestaff",
-		"mcdw:whip_whip"
+		"mcdw:whip_whip",
+
+	    "coolershields:iron_banner_shield",
+        "coolershields:wooden_banner_shield",
+
+        		"coolstuff:axe_i",
+        		"coolstuff:dagger_i",
+        		"coolstuff:scepter_i",
+        		"coolstuff:scythe_i",
+        		"coolstuff:sword_i",
+        		"coolstuff:hammer_i",
+        		"coolstuff:mace_i",
+        		"coolstuff:gauntlet_i",
+        		"coolstuff:spear_i",
+        		"coolstuff:staff_i"
+
 
 	]
 }

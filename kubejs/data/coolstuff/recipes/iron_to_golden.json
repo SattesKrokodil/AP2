@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "inmis:plated_backpack"
+  },
+  "addition": {
+    "item": "coolstuff:plate_gold"
+  },
+
+  "result": {
+    "item": "inmis:gilded_backpack"
+  }
+}
