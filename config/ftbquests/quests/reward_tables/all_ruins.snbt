@@ -6,7 +6,7 @@
 	hide_tooltip: true
 	rewards: [{
 		auto: "enabled"
-		command: "/loot give @p loot minecraft:chests/rooms/sewers/sewers_all_rooms"
+		command: "/loot give @p loot minecraft:chests/rooms/ruins/ruins_all_rooms"
 		player_command: false
 		type: "command"
 	}]

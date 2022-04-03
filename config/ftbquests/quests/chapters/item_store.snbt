@@ -13,56 +13,6 @@
 	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	images: [
-		{
-			x: -2.0d
-			y: -3.0d
-			width: 1.0d
-			height: 1.0d
-			rotation: 0.0d
-			image: "minecraft:textures/gui/presets/isles.png"
-			hover: ["BUY"]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: 5.5d
-			y: -3.0d
-			width: 1.0d
-			height: 1.0d
-			rotation: 0.0d
-			image: "minecraft:textures/gui/presets/isles.png"
-			hover: ["SELL"]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -6.5d
-			y: -1.5d
-			width: 1.0d
-			height: 1.0d
-			rotation: 0.0d
-			image: "minecraft:textures/gui/presets/isles.png"
-			hover: ["TIER I"]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -6.5d
-			y: 0.5d
-			width: 1.0d
-			height: 1.0d
-			rotation: 0.0d
-			image: "minecraft:textures/gui/presets/isles.png"
-			hover: ["TIER II"]
-			click: ""
-			dev: false
-			corner: false
-		}
-	]
 	quests: [
 		{
 			title: "Rotten Leather"
@@ -145,7 +95,7 @@
 			}]
 		}
 		{
-			title: "1x Skeleton Skull -> 20x Bronze Coins"
+			title: "10x Skeleton Skull -> 20x Bronze Coins"
 			x: 6.5d
 			y: -1.5d
 			id: "2B4ED9435A12AD19"
@@ -153,12 +103,14 @@
 				id: "33D2F9AFB50B5982"
 				type: "item"
 				item: "minecraft:skeleton_skull"
+				count: 10L
 				consume_items: true
 			}]
 			rewards: [{
 				id: "563666E4D93769CE"
 				type: "questsadditions:repeat"
 				title: "20x Bronze Coin"
+				auto: "enabled"
 				table_id: 8864689688167188766L
 			}]
 		}
@@ -198,6 +150,7 @@
 				id: "6C508581DACAA036"
 				type: "questsadditions:repeat"
 				title: "20x Bronze Coin"
+				auto: "enabled"
 				table_id: 8864689688167188766L
 			}]
 		}
@@ -323,6 +276,7 @@
 				id: "6B04E011B5B90FD7"
 				type: "questsadditions:repeat"
 				title: "20x Bronze Coin"
+				auto: "enabled"
 				table_id: 8864689688167188766L
 			}]
 		}
