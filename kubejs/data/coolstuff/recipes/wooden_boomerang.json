@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "o o",
+    "   "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "minecraft:stick"
+    },
+    "x":
+    {
+      "item": "coolstuff:plate_copper"
+    }
+  },
+  "result":
+  {
+    "item": "gateofbabylon:wooden_boomerang",
+    "count": 1
+  }
+}

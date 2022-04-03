@@ -1,0 +1,49 @@
+{
+	"pools": [{
+			"rolls": {
+				"min": 1,
+				"max": 3
+			},
+			"entries": [{
+				"type": "minecraft:tag",
+				"name": "minecraft:chest_junk_loot",
+				"expand": true
+			}]
+		},
+		{
+			"rolls": 1,
+			"entries": [{
+				"type": "minecraft:loot_table",
+				"name": "coolstuff:chests/runes"
+			}],
+			"conditions": [{
+				"condition": "minecraft:random_chance",
+				"chance": 0.6
+			}]
+		},
+		{
+			"rolls": 1,
+			"entries": [{
+				"type": "minecraft:loot_table",
+				"name": "minecraft:chests/rooms/general/all_rooms"
+			}],
+			"conditions": [{
+				"condition": "minecraft:random_chance",
+				"chance": 0.3
+			}]
+		}, {
+			"rolls": 1,
+			"entries": [{
+					"type": "minecraft:loot_table",
+					"weight": 70,
+					"name": "minecraft:chests/general_common_loot"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 30,
+					"name": "minecraft:chests/general_uncommon_loot"
+				}
+			]
+		}
+	]
+}

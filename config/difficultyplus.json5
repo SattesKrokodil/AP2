@@ -50,8 +50,8 @@
 	"tools": {
 		"sword": true,
 		"pickaxe": false,
-		"axe": true,
-		"shovel": true,
+		"axe": false,
+		"shovel": false,
 		"hoe": false
 	}
 }

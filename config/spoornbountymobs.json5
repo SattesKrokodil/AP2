@@ -8,9 +8,9 @@
 	// Player's Bounty Hunter level increments at this value [default = 10]
 	"playerBountyHunterLevelIntervals": 10,
 	// Bonus health for Player per Bounty Hunter level [default = 2 (one heart)]
-	"playerBonusHealthPerBountyHunterLevel": 2.0,
+	"playerBonusHealthPerBountyHunterLevel": 0.0,
 	// Bonus damage for Player per Bounty Hunter tier [default = 0.5]
-	"playerBonusDamagePerBountyHunterTier": 0.5,
+	"playerBonusDamagePerBountyHunterTier": 0.0,
 	// Percentage of player's Bounty score LOST on death [default = 20, min=0, max=100]
 	"playerDeathBountyScorePenalty": 20.0,
 	// Set to false if you don't want potion particle effects on HUD from Bounty mob attacks [default = true]
