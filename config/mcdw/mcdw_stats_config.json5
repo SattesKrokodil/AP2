@@ -7,13 +7,13 @@
 		},
 		"SWORD_BROKEN_SAWBLADE": {
 			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -2.4000000953674316
+			"damage": 4,
+			"attackSpeed": -2.4
 		},
 		"SWORD_CUTLASS": {
 			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -2.700000047683716
+			"damage": 4,
+			"attackSpeed": -2.4
 		},
 		"SWORD_MASTERS_KATANA": {
 			"material": "diamond",
@@ -27,13 +27,13 @@
 		},
 		"SWORD_KATANA": {
 			"material": "iron",
-			"damage": 1,
-			"attackSpeed": -1.5
+			"damage": 4,
+			"attackSpeed": -2.4
 		},
 		"SWORD_NAMELESS_BLADE": {
 			"material": "iron",
-			"damage": 1,
-			"attackSpeed": -1.7000000476837158
+			"damage": 4,
+			"attackSpeed": -2.4
 		},
 		"SWORD_HEARTSTEALER": {
 			"material": "diamond",
@@ -72,7 +72,7 @@
 		},
 		"SWORD_IRON_SWORD_VAR": {
 			"material": "iron",
-			"damage": 3,
+			"damage": 4,
 			"attackSpeed": -2.4000000953674316
 		},
 		"SWORD_MECHANIZED_SAWBLADE": {
@@ -209,7 +209,7 @@
 		"DAGGER_DAGGER": {
 			"material": "iron",
 			"damage": 1,
-			"attackSpeed": -1.2999999523162842
+			"attackSpeed": -1.0
 		},
 		"DAGGER_SWIFT_STRIKER": {
 			"material": "netherite",
@@ -257,8 +257,8 @@
 		},
 		"HAMMER_BONECLUB": {
 			"material": "iron",
-			"damage": 5,
-			"attackSpeed": -3.0999999046325684
+			"damage": 7,
+			"attackSpeed": -3.4
 		},
 		"HAMMER_BONE_CUDGEL": {
 			"material": "diamond",
@@ -299,15 +299,15 @@
 		},
 		"GAUNTLET_GAUNTLET": {
 			"material": "iron",
-			"damage": 0,
-			"attackSpeed": -1.399999976158142
+			"damage": 2,
+			"attackSpeed": -1.5
 		}
 	},
 	"sickleStats": {
 		"SICKLE_SICKLE": {
 			"material": "iron",
 			"damage": 1,
-			"attackSpeed": -1.899999976158142
+			"attackSpeed": -1.0
 		},
 		"SICKLE_LAST_LAUGH_GOLD": {
 			"material": "iron",
@@ -372,8 +372,8 @@
 	"glaiveStats": {
 		"SPEAR_GLAIVE": {
 			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -2.700000047683716
+			"damage": 4,
+			"attackSpeed": -2.5
 		},
 		"SPEAR_GRAVE_BANE": {
 			"material": "iron",
@@ -412,9 +412,9 @@
 	"doubleAttackReachOfSpears": false,
 	"staffStats": {
 		"STAFF_BATTLESTAFF": {
-			"material": "wood",
-			"damage": 0,
-			"attackSpeed": -0.10000000149011612
+			"material": "iron",
+			"damage": 4,
+			"attackSpeed": -2.5
 		},
 		"STAFF_BATTLESTAFF_OF_TERROR": {
 			"material": "iron",

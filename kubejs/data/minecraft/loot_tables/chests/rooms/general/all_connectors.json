@@ -96,7 +96,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 100,
-          "name": "minecraft:chests/rooms/sewers/002_054_007_1_0"
+          "name": "minecraft:chests/rooms/sewers/002_054_007_0_1"
         },
         {
           "type": "minecraft:loot_table",

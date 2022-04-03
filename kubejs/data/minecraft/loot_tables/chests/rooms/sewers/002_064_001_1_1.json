@@ -3,16 +3,16 @@
 		"rolls": 1,
 		"entries": [{
 			"type": "dynocaps:rustycap",
-			"prefabname": "dynocaps:002_054_007_1_0.dynobin",
+			"prefabname": "dynocaps:002_064_001_1_1.dynobin",
 			"functions": [{
 					"function": "minecraft:set_nbt",
-					"tag": "{CustomModelData:1000007}"
+					"tag": "{CustomModelData:1000001}"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"entity": "this",
 					"lore": [{
-						"text": "North - East Connector (NE)",
+						"text": "Standard Room",
 						"color": "green",
 						"bold": false,
 						"italic": false

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " o ",
+    "uxu",
+    " o "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "coolstuff:plate_leather"
+    },
+        "u":
+        {
+          "item": "coolstuff:rope"
+        },
+    "x":
+    {
+      "item": "botania:crafting_halo"
+    }
+  },
+  "result":
+  {
+    "item": "inmis:baby_backpack",
+    "count": 1
+  }
+}
