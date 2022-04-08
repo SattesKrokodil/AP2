@@ -1,11 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###"
+    "#o#"
   ],
   "key": {
     "#": {
       "tag": "minecraft:wooden_slabs"
+    },
+    "o": {
+      "item": "minecraft:iron_nugget"
     }
   },
   "result": {

@@ -2,14 +2,13 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Level 30"
+            "text": "Chapter I"
         },
         "description": {
-            "text": "Reach Age of Exile Level 30",
-            "color": "white"
+            "text": "Dungeon Ready"
         },
         "icon": {
-            "item": "minecraft:gold_ore"
+            "item": "kubejs:number_i"
         },
         "frame": "task",
         "show_toast": true,

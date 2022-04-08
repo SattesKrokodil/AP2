@@ -2,19 +2,18 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Level 50 - The End ... game.",
-            "color": "light_purple"
+            "text": "Research Task I"
         },
         "description": {
-            "text": "Reach Age of Exile Level 50"
+            "text": "I like berries"
         },
         "icon": {
-            "item": "minecraft:beacon"
+            "item": "spectrum:fox_head"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": false
+        "hidden": true
     },
     "criteria": {
         "imp": {

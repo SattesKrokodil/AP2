@@ -1,0 +1,8 @@
+{
+	id: "2F7555158E74838C"
+	order_index: 14
+	title: "trading licence"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [{ item: "coolstuff:trading_licence" }]
+}

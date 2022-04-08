@@ -2,18 +2,18 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "fire element"
+            "text": "Chapter II"
         },
         "description": {
-            "text": "player has the element fire selected"
+            "text": "Restoring Memories"
         },
         "icon": {
-            "item": "minecraft:dirt"
+            "item": "kubejs:number_ii"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": false
+        "hidden": true
     },
     "criteria": {
         "imp": {

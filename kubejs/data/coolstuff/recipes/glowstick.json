@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " o ",
+    " x ",
+    " o "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:torch"
+    },
+    "o":
+    {
+      "tag": "minecraft:gels"
+    }
+  },
+  "result":
+  {
+    "item": "terrarianslimes:glowstick",
+    "count": 1
+  }
+}

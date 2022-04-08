@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ixi",
+		"u u",
+		"ooo"
+	],
+	"key": {
+		"o": {
+			"tag": "minecraft:planks"
+		},
+		"u": {
+			"tag": "minecraft:leathers"
+		},
+		"x": {
+			"item": "elementalcreepers:earth_gunpowder"
+		},
+
+		"i": {
+			"tag": "minecraft:gels"
+		}
+	},
+	"result": {
+		"item": "minecraft:chest",
+		"count": 1
+	}
+}

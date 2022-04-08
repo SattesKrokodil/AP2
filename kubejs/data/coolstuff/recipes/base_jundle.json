@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "u u",
+    "uou"
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "coolstuff:plate_leather"
+    },
+        "u":
+        {
+          "item": "minecraft:brick"
+        }
+  },
+  "result":
+  {
+    "item": "coolstuff:base_jundle",
+    "count": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
 	id: "439B581DDA49E731"
 	group: ""
-	order_index: 2
+	order_index: 3
 	filename: "item_store"
 	title: "Item Store"
 	icon: {
@@ -230,31 +230,6 @@
 			}]
 		}
 		{
-			title: "Chest"
-			icon: "minecraft:chest"
-			x: 1.5d
-			y: -1.5d
-			id: "63FD8E55A2B0520D"
-			tasks: [{
-				id: "1A70D54709294E9C"
-				type: "item"
-				item: {
-					id: "numismatic-overhaul:silver_coin"
-					Count: 1b
-					tag: { }
-				}
-				count: 5L
-				consume_items: true
-			}]
-			rewards: [{
-				id: "763D7014B9CC2F6D"
-				type: "questsadditions:repeat"
-				title: "Chest"
-				auto: "enabled"
-				table_id: 376479952623328950L
-			}]
-		}
-		{
 			title: "Any Slimeball -> 20x Bronze Coins"
 			x: 7.5d
 			y: -1.5d
@@ -303,6 +278,50 @@
 				title: "Bread (10x)"
 				auto: "enabled"
 				table_id: 7183324839059427180L
+			}]
+		}
+		{
+			title: "TIER I"
+			icon: "kubejs:number_i"
+			x: -8.0d
+			y: -1.5d
+			id: "2E5782C443F7E6A5"
+			tasks: [{
+				id: "6D047B101669BA69"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Trading Licence"
+			icon: "coolstuff:trading_licence"
+			x: 1.5d
+			y: -1.5d
+			description: [""]
+			dependencies: ["6267F198B7B8AFE5"]
+			hide: true
+			id: "03D6B777E686650D"
+			tasks: [{
+				id: "593C2A90DCD7D149"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:silver_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3F1A8354FA717EA0"
+				type: "questsadditions:repeat"
+				title: "Trading Licence"
+				icon: "coolstuff:trading_licence"
+				table_id: 3419733043130434444L
 			}]
 		}
 	]

@@ -1,0 +1,1072 @@
+{
+	id: "468F21AB9F1A93BA"
+	group: ""
+	order_index: 1
+	filename: "beastiary"
+	title: "Research Tasks"
+	icon: "valley:telescope_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Zombie"
+			icon: "minecraft:zombie_head"
+			x: -0.5d
+			y: -0.5d
+			description: ["\"Zombies eat brains, we are safe.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "2AD5C935B7BB727A"
+			tasks: [{
+				id: "3DF59CB1EC40DB3F"
+				type: "observation"
+				title: "Observe Zombie Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "minecraft:zombie"
+			}]
+			rewards: [
+				{
+					id: "36229DF6C642A37E"
+					type: "item"
+					item: "rotten:rotten_leather"
+					count: 10
+				}
+				{
+					id: "0618CAE0A9EABD1A"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Skeleton"
+			icon: "minecraft:skeleton_skull"
+			x: 0.5d
+			y: -0.5d
+			description: ["\"One thing you’ll say for skeletons, they’ll always give you a smile.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "4AC804E10D32EB04"
+			tasks: [{
+				id: "4D43DCE890FBF7B6"
+				type: "observation"
+				title: "Observe Skeleton Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "minecraft:skeleton"
+			}]
+			rewards: [
+				{
+					id: "551B9CEAD69A9F9F"
+					type: "item"
+					item: "valley:skeleton_cookie_dough"
+					count: 10
+				}
+				{
+					id: "4881824077417703"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Silverfish"
+			icon: "spectrum:silverfish_head"
+			x: 1.5d
+			y: -0.5d
+			description: ["\"We think,\" said Silverfish, leaning closer, \"that he found a way of making himself invisible.\" - \"Really?\" - \"Because,\" said Silverfish, nodding conspiratorially, \"no-one has seen him.”"]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "301903718F1086FF"
+			tasks: [{
+				id: "0B25AADE52A8EF4A"
+				type: "observation"
+				title: "Observe Silverfish Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "minecraft:silverfish"
+			}]
+			rewards: [
+				{
+					id: "3DDA8CBD9E2EBD34"
+					type: "item"
+					item: "minecraft:sand"
+					count: 10
+				}
+				{
+					id: "2B8DF3881ED28A24"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Jungle Slime"
+			icon: "terrarianslimes:jungle_slime_block"
+			x: 5.5d
+			y: -0.5d
+			description: ["\"The bureaucracy always goes with the way Slimes go.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "2EA1691368D74B30"
+			tasks: [{
+				id: "0420304663B97108"
+				type: "observation"
+				title: "Observe Jungle Slime Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "terrarianslimes:jungle_slime"
+			}]
+			rewards: [
+				{
+					id: "726A82F184DD1BCB"
+					type: "item"
+					item: "terrarianslimes:jungle_gel"
+					count: 10
+				}
+				{
+					id: "410412BB4439168C"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Drowned"
+			icon: "spectrum:drowned_head"
+			x: 2.5d
+			y: -0.5d
+			description: ["“You don't drown by falling in the water; you drown by staying there.”"]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "496255228FA7F72E"
+			tasks: [{
+				id: "58836F328F9004E0"
+				type: "observation"
+				title: "Observe Drowned Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "minecraft:drowned"
+			}]
+			rewards: [
+				{
+					id: "1401231D68F077B5"
+					type: "item"
+					item: "minecraft:kelp"
+					count: 10
+				}
+				{
+					id: "6295B80C5AAABB79"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Wither Puppet"
+			icon: {
+				id: "mcda:wither_armor_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 3.25d
+			y: -1.0d
+			shape: "diamond"
+			description: ["“Whoever had designed the skeletons of creatures had even less imagination than whoever had done the outsides.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			size: 0.5d
+			id: "61AD12B2759B6C36"
+			tasks: [{
+				id: "369FFA7EABEEDB27"
+				type: "observation"
+				title: "Observe Wither Puppet Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "adventurez:wither_puppet"
+			}]
+			rewards: [{
+				id: "6C4DDA020178DA3E"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 20
+			}]
+		}
+		{
+			title: "Necromancer"
+			icon: "minecraft:black_candle"
+			x: 3.5d
+			y: -0.5d
+			description: ["“YOU FEAR TO DIE?\" - \"It's not that I don't want... I mean, I've always...it's just that life is a habit that's hard to break...”"]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "0EAE76CC5D2E9FCB"
+			tasks: [{
+				id: "656D26BF61A6D6B2"
+				type: "observation"
+				title: "Observe Necromancer Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "adventurez:necromancer"
+			}]
+			rewards: [
+				{
+					id: "218FB008C267B53C"
+					type: "item"
+					item: "minecraft:soul_sand"
+					count: 10
+				}
+				{
+					id: "60492B8CFE8DEF55"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Mother Slime"
+			icon: "terrarianslimes:mother_slime_spawn_egg"
+			x: 4.5d
+			y: -0.5d
+			description: ["\"Every revolution evaporates and leaves behind only the Slime of a new bureaucracy.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "7CF3D114673BA7B7"
+			tasks: [{
+				id: "421617F7FE3640E7"
+				type: "observation"
+				title: "Observe Mother Slime Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "terrarianslimes:mother_slime"
+			}]
+			rewards: [
+				{
+					id: "3057E373DF0B9ECF"
+					type: "item"
+					item: "terrarianslimes:green_gel"
+					count: 10
+				}
+				{
+					id: "723027D0AC9CAFCF"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Baby Slime"
+			icon: "terrarianslimes:baby_slime_spawn_egg"
+			x: 4.25d
+			y: -1.0d
+			shape: "diamond"
+			description: ["\"Change is the law of Slimes.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			size: 0.5d
+			id: "6A48566127CB070B"
+			tasks: [{
+				id: "3C042872F1DF01B3"
+				type: "observation"
+				title: "Observe Baby Slime Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "terrarianslimes:baby_slime"
+			}]
+			rewards: [{
+				id: "304C1E7DE5963F9A"
+				type: "item"
+				item: {
+					id: "numismatic-overhaul:bronze_coin"
+					Count: 1b
+					tag: { }
+				}
+				count: 20
+			}]
+		}
+		{
+			title: "Revenant"
+			icon: "graveyard:revenant_spawn_egg"
+			x: 6.5d
+			y: -0.5d
+			description: ["“And now you'll be telling stories of my coming back, and they won't be false, and they won't be true - but they'll be real”"]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "39DEB1EFA90C79DF"
+			tasks: [{
+				id: "0CBF9E347D1C7046"
+				type: "observation"
+				title: "Observe Revenant Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "graveyard:revenant"
+			}]
+			rewards: [
+				{
+					id: "747B325992796E65"
+					type: "item"
+					item: "minecraft:bone"
+					count: 10
+				}
+				{
+					id: "35522050E1A3DA78"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Phantom"
+			icon: "spectrum:phantom_head"
+			x: 7.5d
+			y: -0.5d
+			description: ["“You dear, sweet, tantalizing Phantom - hardly flesh at all; so that when I put my arms round you I almost expect them to pass through you as through air!”"]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "7C64080D75C9979F"
+			tasks: [{
+				id: "24DDF5D786D0817B"
+				type: "observation"
+				title: "Observe Phantom Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "minecraft:phantom"
+			}]
+			rewards: [
+				{
+					id: "6E3CCFF48791E7B9"
+					type: "item"
+					item: "minecraft:phantom_membrane"
+					count: 10
+				}
+				{
+					id: "5EFCD6A49730C9B4"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 50
+				}
+			]
+		}
+		{
+			title: "Horseshoe Crab"
+			icon: "betteranimalsplus:horseshoecrab_spawn_egg"
+			x: 8.5d
+			y: -0.5d
+			description: ["“All things are poisons, for there is nothing without poisonous qualities. It is only the dose which makes a thing poison.”"]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "3BA56D78E637186A"
+			tasks: [{
+				id: "6BFB24A38869016A"
+				type: "observation"
+				title: "Observe Horseshoe Crab Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "betteranimalsplus:horseshoecrab"
+			}]
+			rewards: [
+				{
+					id: "5646C744DCE46CDE"
+					type: "item"
+					item: "valley:crab_red_cooked"
+					count: 10
+				}
+				{
+					id: "40FA0719A665D021"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+			]
+		}
+		{
+			title: "Crab"
+			icon: "valley:crab_red"
+			x: 9.5d
+			y: -0.5d
+			description: ["\"You will never make the crab walk straight.\""]
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "05BB7F77AFE41A32"
+			tasks: [{
+				id: "3BB83C94D83ABD08"
+				type: "observation"
+				title: "Observe Crab Behaviour"
+				icon: "minecraft:spyglass"
+				timer: 40L
+				observe_type: 5
+				to_observe: "betteranimalsplus:crab"
+			}]
+			rewards: [
+				{
+					id: "3EB2E52699FA84DC"
+					type: "item"
+					item: "betteranimalsplus:crab_meat_raw"
+					count: 10
+				}
+				{
+					id: "6D4260A9FD77A551"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+			]
+		}
+		{
+			title: "Research Task 1: Management Report"
+			icon: "spectrum:fox_head"
+			x: -2.25d
+			y: 0.0d
+			shape: "hexagon"
+			subtitle: "Don't forget to check your building blocks store!"
+			description: ["You unlocked the ability to craft \"Runeword:Fox\""]
+			hide_dependency_lines: true
+			dependencies: [
+				"2AD5C935B7BB727A"
+				"4AC804E10D32EB04"
+				"301903718F1086FF"
+				"496255228FA7F72E"
+				"0EAE76CC5D2E9FCB"
+				"61AD12B2759B6C36"
+				"7CF3D114673BA7B7"
+				"6A48566127CB070B"
+				"2EA1691368D74B30"
+				"39DEB1EFA90C79DF"
+				"7C64080D75C9979F"
+				"3BA56D78E637186A"
+				"05BB7F77AFE41A32"
+				"7054FDFFF44B43F8"
+				"6C963A550E9D554D"
+				"29A4BD701F50469F"
+				"10318416BE32348A"
+				"1FD11C9917BD909A"
+				"7B99DAA96646AAFC"
+				"79CB663E44FEAC40"
+				"30F3E1F6C1C2301B"
+				"2FCD2AB5348CAA5C"
+				"215A9CCCB799C5D2"
+				"6C08C9CE531D2825"
+				"4C82D477D2E16C9F"
+				"062B5067EE1820FE"
+			]
+			hide: true
+			hide_text_until_complete: true
+			size: 1.5d
+			id: "6BC64B13990B7C6A"
+			tasks: [{
+				id: "61355E7A97A07563"
+				type: "checkmark"
+				title: "Complete all Observations"
+			}]
+			rewards: [
+				{
+					id: "217656D370A4B7F1"
+					type: "advancement"
+					auto: "enabled"
+					advancement: "adventurepack:research_task_i"
+					criterion: ""
+				}
+				{
+					id: "44F72B69C86C7527"
+					type: "command"
+					title: "You can craft Runeword: FOX now!"
+					icon: "coolstuff:runeword_fox"
+					command: "/power grant @p cool_origins:crafting/runeword_on_item/apply_runeword_fox"
+					player_command: false
+				}
+				{
+					id: "6CDE889634067FC1"
+					type: "item"
+					item: "coolstuff:trading_licence"
+				}
+			]
+		}
+		{
+			title: "Feral Wolf"
+			x: 10.5d
+			y: -0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "7054FDFFF44B43F8"
+			tasks: [{
+				id: "59E35F7FB31CEC59"
+				type: "observation"
+				title: "Observe Wolf Behaviour"
+				icon: "betteranimalsplus:feralwolfhead_black"
+				timer: 40L
+				observe_type: 5
+				to_observe: "betteranimalsplus:feralwolf"
+			}]
+			rewards: [
+				{
+					id: "54D9B4857858BFCD"
+					type: "item"
+					item: "rotten:prepared_hide"
+					count: 10
+				}
+				{
+					id: "34D0F1FA2715DC9D"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Rocks"
+			x: 0.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "29A4BD701F50469F"
+			tasks: [{
+				id: "5D653FBE5261CD35"
+				type: "observation"
+				title: "Examine"
+				icon: "valley:rocks"
+				timer: 120L
+				observe_type: 0
+				to_observe: "valley:rocks"
+			}]
+			rewards: [
+				{
+					id: "0ED0A58F46048A9C"
+					type: "item"
+					item: "valley:rocks"
+					count: 10
+				}
+				{
+					id: "37C5B3CFCD488677"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Cobweb"
+			icon: "minecraft:cobweb"
+			x: 1.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "10318416BE32348A"
+			tasks: [{
+				id: "1032A536FD062AC6"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "minecraft:cobweb"
+			}]
+			rewards: [
+				{
+					id: "28257E30FD7E8A03"
+					type: "item"
+					item: "minecraft:string"
+					count: 10
+				}
+				{
+					id: "32C8F448DAEF117A"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Moss Carpet"
+			icon: "minecraft:moss_carpet"
+			x: 2.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "1FD11C9917BD909A"
+			tasks: [{
+				id: "05B1D9EDF19CE4B6"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "minecraft:moss_carpet"
+			}]
+			rewards: [
+				{
+					id: "74895E155626E05B"
+					type: "item"
+					item: "valley:mulch"
+					count: 10
+				}
+				{
+					id: "74973DD2BAA2D082"
+					type: "item"
+					item: "valley:mud"
+					count: 10
+				}
+			]
+		}
+		{
+			title: "Cobblestone"
+			icon: "minecraft:cobblestone"
+			x: -0.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "6C963A550E9D554D"
+			tasks: [{
+				id: "32903576BE991525"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "minecraft:cobblestone"
+			}]
+			rewards: [
+				{
+					id: "484A840E1FEB0EB3"
+					type: "item"
+					item: "minecraft:cobblestone"
+					count: 10
+				}
+				{
+					id: "6E5753A1CE641E9F"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Chain"
+			icon: "minecraft:chain"
+			x: 3.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "7B99DAA96646AAFC"
+			tasks: [{
+				id: "40F0303F7FE81715"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "minecraft:chain"
+			}]
+			rewards: [
+				{
+					id: "2DFB536E5BBE2612"
+					type: "item"
+					item: "minecraft:chain"
+					count: 10
+				}
+				{
+					id: "02D97C4B708BB834"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Grass Block"
+			icon: "minecraft:grass_block"
+			x: 4.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "79CB663E44FEAC40"
+			tasks: [{
+				id: "3322EAB805043920"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "minecraft:grass_block"
+			}]
+			rewards: [
+				{
+					id: "2BB842A84CCFF597"
+					type: "item"
+					item: "minecraft:dirt"
+					count: 10
+				}
+				{
+					id: "41C0CCD6410B482E"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Green Stained Glass"
+			icon: "minecraft:green_stained_glass"
+			x: 8.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "6C08C9CE531D2825"
+			tasks: [{
+				id: "6D6006EBB3624BE2"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "minecraft:green_stained_glass"
+			}]
+			rewards: [
+				{
+					id: "1C013CFEFA7B243E"
+					type: "item"
+					item: "minecraft:glass"
+					count: 10
+				}
+				{
+					id: "0E09DF232FA45D1D"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Pipe"
+			icon: "architects_palette:pipe"
+			x: 6.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "2FCD2AB5348CAA5C"
+			tasks: [{
+				id: "22E54755074A38CB"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 120L
+				observe_type: 0
+				to_observe: "architects_palette:pipe"
+			}]
+			rewards: [
+				{
+					id: "5F3DD1EFED43B1C9"
+					type: "item"
+					item: "architects_palette:pipe"
+					count: 10
+				}
+				{
+					id: "2A4CB52900B79E5F"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Kelp Plant"
+			icon: "minecraft:kelp"
+			x: 7.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "215A9CCCB799C5D2"
+			tasks: [{
+				id: "75BCB87EDA6E1AA7"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 240L
+				observe_type: 0
+				to_observe: "minecraft:kelp_plant"
+			}]
+			rewards: [
+				{
+					id: "1FA6B753C3CB3229"
+					type: "item"
+					item: "architects_palette:algal_brick"
+					count: 20
+				}
+				{
+					id: "62502FD5C260E3F2"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Algal Bricks"
+			icon: "architects_palette:algal_bricks"
+			x: 5.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "30F3E1F6C1C2301B"
+			tasks: [{
+				id: "79D5129569191A94"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 240L
+				observe_type: 0
+				to_observe: "architects_palette:algal_bricks"
+			}]
+			rewards: [
+				{
+					id: "7B3FC83912E74554"
+					type: "item"
+					item: "architects_palette:algal_bricks"
+					count: 10
+				}
+				{
+					id: "05965F699E02252E"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Slime Block"
+			icon: "minecraft:slime_block"
+			x: 9.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "4C82D477D2E16C9F"
+			tasks: [{
+				id: "5F8216D6AEE6A068"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 240L
+				observe_type: 0
+				to_observe: "minecraft:slime_block"
+			}]
+			rewards: [
+				{
+					id: "026A2CA2CA6591AA"
+					type: "item"
+					item: "minecraft:slime_block"
+					count: 10
+				}
+				{
+					id: "313029AA8288D7BA"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Oxidized Cut Copper Slab"
+			icon: "minecraft:oxidized_cut_copper_slab"
+			x: 10.5d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["6267F198B7B8AFE5"]
+			id: "062B5067EE1820FE"
+			tasks: [{
+				id: "20CC61BC364C8134"
+				type: "observation"
+				title: "Exermine"
+				icon: "minecraft:spyglass"
+				timer: 240L
+				observe_type: 0
+				to_observe: "minecraft:oxidized_cut_copper_slab"
+			}]
+			rewards: [
+				{
+					id: "1A8E591614F1CFF5"
+					type: "item"
+					item: "minecraft:oxidized_copper"
+					count: 10
+				}
+				{
+					id: "530C90C12FDA4A50"
+					type: "item"
+					item: {
+						id: "numismatic-overhaul:bronze_coin"
+						Count: 1b
+						tag: { }
+					}
+					count: 20
+				}
+			]
+		}
+		{
+			title: "Learn more about the Dungeon"
+			icon: "minecraft:spyglass"
+			x: -2.5d
+			y: -2.5d
+			description: ["Did you ever wonder why you are here? Or where we are? Makes no sense right?"]
+			hide_dependency_lines: true
+			dependencies: ["2F9BBEB1021487AA"]
+			hide: true
+			id: "6267F198B7B8AFE5"
+			tasks: [
+				{
+					id: "353389D90CC6AAC9"
+					type: "advancement"
+					advancement: "adventurepack:chapter_i"
+					criterion: ""
+				}
+				{
+					id: "50C04043D8304E2C"
+					type: "item"
+					item: "minecraft:spyglass"
+				}
+			]
+			rewards: [
+				{
+					id: "218ACDA2635A502D"
+					type: "item"
+					auto: "enabled"
+					item: {
+						id: "numismatic-overhaul:silver_coin"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "7E919AEF8AB656E3"
+					type: "item"
+					item: "coolstuff:claim_contract"
+				}
+			]
+		}
+		{
+			title: "Hotkeys"
+			icon: "botania:cosmetic_questgiver_mark"
+			x: -4.0d
+			y: 0.0d
+			description: ["Abilities use the origins hotkeys \"Active Power\" 1-5 (head 1, chest 2, legs 3, feet 4, weapon 5)"]
+			dependencies: ["6BC64B13990B7C6A"]
+			id: "61AF2E8CB0611D13"
+			tasks: [{
+				id: "5B20D10BD6B4C7BA"
+				type: "checkmark"
+			}]
+		}
+	]
+}

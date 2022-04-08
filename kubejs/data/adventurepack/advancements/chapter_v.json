@@ -2,18 +2,18 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Level 5"
+            "text": "Chapter V"
         },
         "description": {
-            "text": "Reach Age of Exile Level 5"
+            "text": "Impossible."
         },
         "icon": {
-            "item": "minecraft:dirt"
+            "item": "kubejs:number_v"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": false
+        "hidden": true
     },
     "criteria": {
         "imp": {

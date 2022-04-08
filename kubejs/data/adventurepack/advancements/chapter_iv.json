@@ -2,18 +2,18 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Level 10"
+            "text": "Chapter IV"
         },
         "description": {
-            "text": "Reach Age of Exile Level 10"
+            "text": "Take Off"
         },
         "icon": {
-            "item": "minecraft:stone"
+            "item": "kubejs:number_iv"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": false
+        "hidden": true
     },
     "criteria": {
         "imp": {

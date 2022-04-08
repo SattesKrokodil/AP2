@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "OOO",
+	"   "
+    ],
+    "key": {
+        "#": {
+            "item": "coolstuff:trading_licence"
+        },
+        "O": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "numismatic-overhaul:shop",
+        "count": 1
+    }
+}

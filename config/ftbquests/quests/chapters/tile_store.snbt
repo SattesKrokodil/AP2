@@ -1,7 +1,7 @@
 {
 	id: "664DB544834612A0"
 	group: ""
-	order_index: 1
+	order_index: 2
 	filename: "tile_store"
 	title: "Tile Store"
 	icon: "kubejs:cross_connector"

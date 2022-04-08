@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ixi",
+		"u u",
+		"ooo"
+	],
+	"key": {
+		"o": {
+			"item": "minecraft:cobblestone"
+		},
+		"u": {
+			"item": "minecraft:clay"
+		},
+		"x": {
+			"item": "elementalcreepers:miner_gunpowder"
+		},
+
+		"i": {
+			"tag": "minecraft:gels"
+		}
+	},
+	"result": {
+		"item": "minecraft:furnace",
+		"count": 1
+	}
+}

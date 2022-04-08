@@ -2,18 +2,18 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Level 20"
+            "text": "Chapter III"
         },
         "description": {
-            "text": "Reach Age of Exile Level 20"
+            "text": "The Architect"
         },
         "icon": {
-            "item": "minecraft:iron_ore"
+            "item": "kubejs:number_iii"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": false
+        "hidden": true
     },
     "criteria": {
         "imp": {
